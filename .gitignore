@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# outputs (data and files to reproduce those are included)
+*.xlsx
+*.xls
+*.svg
+maps_static_API_key
