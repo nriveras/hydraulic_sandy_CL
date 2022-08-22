@@ -9,6 +9,8 @@ getwd()
 dir()
 
 # setup
+library(tidyverse)
+library(broom)
 library(emmeans)
 library(multcomp)
 library(multcompView)
@@ -22,24 +24,19 @@ library(svglite)
 library(ggtext) # remotes::install_github("clauswilke/ggtext")
 
 # Read file --------------------------------------------------------------
-data <- read.csv2("./DATA/RAW/SL_soil_dataset.csv", encoding = "UTF-8", check.names = FALSE) %>%
+data <- read.csv2("./DATA/RAW/SL_Kns.csv", encoding = "UTF-8", check.names = FALSE) %>%
   mutate(pr = factor(pr, levels = c("High PR", "Low PR"),
                        labels = c("High PR", "Low PR")),
          position = factor(position, levels = c("OWT", "WT"),
                            labels = c("OWT", "WT")),
          depth = factor(depth, levels = c("Topsoil", "Subsoil"),
-                        labels = c("Topsoil", "Subsoil"))) %>%
-  rename(SOM = OM) %>%
-  pivot_longer(cols = c("Kns_1kPa":"Kns_6kPa"), names_to = "tension", values_to = "Kns") %>%
-  mutate(tension = ifelse(tension == "Kns_1kPa", "1", tension),
-         tension = ifelse(tension == "Kns_2kPa", "2", tension),
-         tension = ifelse(tension == "Kns_4kPa", "4", tension),
-         tension = ifelse(tension == "Kns_6kPa", "6", tension)) %>%
-  mutate(tension = as.numeric(tension))
+                        labels = c("Topsoil", "Subsoil")),
+         replicate = factor(replicate, levels = c("1", "2","3","4"),
+                        labels = c("1", "2","3","4")))
 
-data_summary <- data %>% 
+data_summary <- data %>%
   group_by(pr, position, depth, tension) %>% 
-  summarize(Kns = mean(Kns)) %>%
+  summarize(kns = mean(kns)) %>%
   mutate(position_depth = paste(position, depth, sep = ' - '))
 
 # Descriptive statistics --------------------------------------------------
@@ -50,14 +47,14 @@ labels <-  data.frame(pr = c("High PR", "Low PR"),
 
 Kns <- data_summary %>%
   ggplot(aes(x = tension, 
-             y = Kns, 
+             y = kns, 
              shape = position_depth, 
              colour = position_depth,
              fill = position_depth,
              linetype = position
              )) + 
   geom_point(size = 3) +
-  facet_wrap(~ pr) +
+  facet_wrap(~ pr, scales = "free") +
   geom_smooth(method = lm, show.legend  = FALSE,  se = FALSE) +
   labs(y = "K [cm min<sup> -1</sup>]",
        x = "Soil water pressure [hPa]") +
@@ -98,6 +95,7 @@ Kns <- data_summary %>%
             vjust = 1.5,
             inherit.aes = FALSE)
 
+Kns
 scale_factor <- 0.7
 ggsave(file="FIGURES/Kns.png", Kns,
        width= 8*scale_factor, height = 4*scale_factor)

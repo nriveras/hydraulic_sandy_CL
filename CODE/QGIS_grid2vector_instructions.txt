@@ -1,20 +1,20 @@
 - Load "RP_kriged_SL_0-5.shx"
-- "Vectorial/herramientas de geoproceso/Disolver..."
+- "Vector/Geoprocessing tools/Dissolve..."
 	Disolver campo(s) [opcional] -> "var1_class"
 	Ejecutar
-- "Vectorial/herramientas de geometría/Simplificar..."
+- "Vector/Geometry tools/Simplify..."
 	Capa de entrada -> Disuelto
 	Método de simplificación -> Distancia (Douglas-Peucker)
 	Tolerancia -> 1,5 metros
-- "Vectorial/herramientas de geoproceso/Buffer..."
+- "Vector/geoprocessing tools/Buffer..."
 	Capa de entrada -> Simplificado
 	Distancia -> 0.5
 Interseccion
 Duplicar
 	En uno eliminamos "high PR" (click derecho en capa/abrir tabla de atributos/conmutar el modo edicion)
 	En el otro "low PR"
--"Vectorial/herramientas de geoproceso/Diferencia..."
-Vectorial/Herramienta de gestion de datos/Combinar capas vectoriales
+-"Vector/geoprocessing tools/Difference..."
+-"Vectorial/Herramienta de gestion de datos/Combinar capas vectoriales"
 	Capas de entrada -> Capa de diferencia y "Low PR" (va a depender cual seleccionamos para diferencia en el paso anterior)
 Exportar
 
