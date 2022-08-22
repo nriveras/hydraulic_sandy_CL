@@ -42,7 +42,6 @@ data  <- merge(ks,R_index,by=c("pr", "position", "depth"))
 
 # visualization ---------------------------------------------------------
 
-
 label <-data %>%
   group_by(pr, position, depth) %>%
   summarize(mean_R = mean(R),
