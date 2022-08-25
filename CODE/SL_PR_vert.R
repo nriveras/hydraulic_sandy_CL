@@ -21,7 +21,8 @@ library(svglite)
 PR_s1 <- read.csv2("./DATA/RAW/SL_PR.csv", encoding = "UTF-8", check.names = FALSE) %>%
   dplyr::select(-POINT) %>%
   pivot_longer(cols = c('1':'81'), names_to = "depth", values_to  = "PR") %>%
-  mutate(depth = as.integer(depth))
+  mutate(depth = as.integer(depth),
+         PR = PR*1000) #kPa to Pa
 
 summary(PR_s1)
 # change the degree "°" symbol to a space " "
@@ -79,7 +80,7 @@ PR_vert <-PR_sl_class %>%
   coord_flip() +
   scale_x_continuous(trans = "reverse") +
   labs(x = "Depth [cm]",
-       y = "Penetration resistance [kPa]") +
+       y = "Penetration resistance [Pa]") +
   scale_color_viridis_d(name = NULL,
                         begin = 0.3,
                         end = 0.8,

@@ -32,7 +32,8 @@ data <- read.csv2("./DATA/RAW/SL_Kns.csv", encoding = "UTF-8", check.names = FAL
          depth = factor(depth, levels = c("Topsoil", "Subsoil"),
                         labels = c("Topsoil", "Subsoil")),
          replicate = factor(replicate, levels = c("1", "2","3","4"),
-                        labels = c("1", "2","3","4")))
+                        labels = c("1", "2","3","4")),
+         tension = tension*100) # hPa to Pa
 
 data_summary <- data %>%
   group_by(pr, position, depth, tension) %>% 
@@ -56,8 +57,8 @@ Kns <- data_summary %>%
   geom_point(size = 3) +
   facet_wrap(~ pr, scales = "free") +
   geom_smooth(method = lm, show.legend  = FALSE,  se = FALSE) +
-  labs(y = "K [cm min<sup> -1</sup>]",
-       x = "Soil water pressure [hPa]") +
+  labs(y = "K<sub>h</sub> [cm min<sup> -1</sup>]",
+       x = "Soil water pressure [Pa]") +
   scale_colour_manual(name = "",
                       labels = c("OWT - Topsoil",  "OWT - Subsoil", "WT - Topsoil",  "WT - Subsoil"),
                       values = c("#31688e","#90d743", "#31688e","#90d743"), 

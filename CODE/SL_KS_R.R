@@ -47,14 +47,14 @@ label <-data %>%
   summarize(mean_R = mean(R),
             mean_Ks = mean(Ks)) %>%
   group_by() %>%
-  summarize(mod = tidy(lm(log10(mean_Ks) ~ mean_R, data = data_summarized))$estimate,
-            r_sqr = glance(lm(log10(mean_Ks) ~ mean_R, data = data_summarized))$r.squared) %>%
+  summarize(mod = tidy(lm(log10(mean_Ks) ~ mean_R, data = .))$estimate,
+            r_sqr = glance(lm(log10(mean_Ks) ~ mean_R, data = .))$r.squared) %>%
   # label
-  summarise(label= paste("K =", 
+  summarise(label= paste("<i>K<sub>sat</sub> =</i>", 
                          format(.$mod[2], digits=2),
-                         "R +",
+                         "<i>R +</i>",
                          format(.$mod[1], digits=2),
-                         "<br/>R^2 =",
+                         "<i><br/>R^2 =</i>",
                          format(.$r_sqr[1], digits=2),
                          ""))
 
@@ -66,7 +66,7 @@ R_KS <- data %>%
   geom_point(aes(color = pr)) + 
   geom_smooth(method = lm, se = FALSE, color = "black", size = 0.5) +
   labs(x = "R index",
-       y = "K [log cm min<sup> -1</sup>]") +
+       y = "K<sub>sat</sub> [log cm min<sup> -1</sup>]") +
   scale_color_viridis_d(name = NULL,
                         begin = 0.3,
                         end = 0.8,
@@ -89,18 +89,18 @@ R_KS <- data %>%
         strip.background = element_rect(colour = NA),
         axis.title.y = element_markdown(),
         legend.position = 'bottom')+ 
-  geom_richtext(data = as.data.frame(label1),
+  geom_richtext(data = as.data.frame(label),
                 col = "black",
                 size = 5,
                 hjust = 1, 
                 vjust = 1,
-                aes(x = 2.05, y = -1.6, label = label1),
+                aes(x = 2.05, y = -1.6, label = label),
                 fill = NA, label.color = NA,
                 label.padding = grid::unit(rep(0, 15), "pt"))  # remove padding
 
 R_KS
 
 scale_factor <- 0.7
-ggsave("./FIGURES/SL_R_KS.png", R_KS, width= 8*scale_factor, height = 4*scale_factor)
-ggsave("./FIGURES/SL_R_KS.svg", R_KS, width= 8*scale_factor, height = 4*scale_factor)
+ggsave("./FIGURES/SL_R_KS.png", R_KS, width= 6*scale_factor, height = 5*scale_factor)
+ggsave("./FIGURES/SL_R_KS.svg", R_KS, width= 6*scale_factor, height = 5*scale_factor)
          

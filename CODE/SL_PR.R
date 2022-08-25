@@ -107,4 +107,6 @@ PR_krig_sl_0$var1.class <- factor(PR_krig_sl_0$var1.pred > PR_krig_median,
 
 # export interpolated map as shapefile ------------------------------------
 PR_krig_sl_0 <- st_as_sf(as(PR_krig_sl_0, "SpatialPolygonsDataFrame"))
+
 st_write(PR_krig_sl_0, "DATA/PROCESSED/RP_kriged_SL_0-5.shp", driver="ESRI Shapefile", delete_dsn=TRUE)
+st_write(PR_krig_sl_0, "DATA/PROCESSED/RP_kriged_SL_0-5.GeoJSON", driver="GeoJSON", delete_dsn=TRUE)
