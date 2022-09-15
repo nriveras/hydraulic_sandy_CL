@@ -28,7 +28,7 @@ data <- read.csv2("./DATA/RAW/SL_Kns.csv", encoding = "UTF-8", check.names = FAL
   mutate(pr = factor(pr, levels = c("High PR", "Low PR"),
                        labels = c("High PR", "Low PR")),
          position = factor(position, levels = c("OWT", "WT"),
-                           labels = c("OWT", "WT")),
+                           labels = c("-M", "+M")),
          depth = factor(depth, levels = c("Topsoil", "Subsoil"),
                         labels = c("Topsoil", "Subsoil")),
          replicate = factor(replicate, levels = c("1", "2","3","4"),
@@ -60,7 +60,7 @@ Kns <- data_summary %>%
   labs(y = "K<sub>h</sub> [cm min<sup> -1</sup>]",
        x = "Soil water pressure [Pa]") +
   scale_colour_manual(name = "",
-                      labels = c("OWT - Topsoil",  "OWT - Subsoil", "WT - Topsoil",  "WT - Subsoil"),
+                      labels = c("-M – Topsoil",  "-M – Subsoil", "+M – Topsoil",  "+M – Subsoil"),
                       values = c("#31688e","#90d743", "#31688e","#90d743"), 
                       guide=guide_legend(
                         direction='vertical',
@@ -72,11 +72,11 @@ Kns <- data_summary %>%
                         keywidth = 1,
                         keyheight = 1)) +
   scale_shape_manual(name = "",
-                     labels = c("OWT - Topsoil",  "OWT - Subsoil", "WT - Topsoil",  "WT - Subsoil"),
+                     labels = c("-M – Topsoil",  "-M – Subsoil", "+M – Topsoil",  "+M – Subsoil"),
                      values = c(23, 24, 23, 24),
                      na.translate = TRUE, drop = TRUE) +
   scale_fill_manual(name = "",
-                    labels = c("OWT - Topsoil",  "OWT - Subsoil", "WT - Topsoil",  "WT - Subsoil"),
+                    labels = c("-M – Topsoil",  "-M – Subsoil", "+M – Topsoil",  "+M – Subsoil"),
                     values = c("#31688e","#90d743", "transparent", "transparent"),
                     na.translate = TRUE, drop = FALSE) +
   theme_minimal() + 

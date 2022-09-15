@@ -26,7 +26,7 @@ data <- read.csv2("./DATA/RAW/SL_soil_dataset.csv", encoding = "UTF-8", check.na
   mutate(pr = factor(pr, levels = c("High PR", "Low PR"),
                        labels = c("High PR", "Low PR")),
          position = factor(position, levels = c("OWT", "WT"),
-                           labels = c("OWT", "WT")),
+                           labels = c("-M", "+M")),
          depth = factor(depth, levels = c("Topsoil", "Subsoil"),
                         labels = c("Topsoil", "Subsoil"))) %>%
   rename(SOM = OM)

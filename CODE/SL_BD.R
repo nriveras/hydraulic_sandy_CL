@@ -26,7 +26,7 @@ data <- read.csv2("./DATA/RAW/SL_soil_dataset.csv", encoding = "UTF-8", check.na
   mutate(pr = factor(pr, levels = c("High PR", "Low PR"),
                        labels = c("High PR", "Low PR")),
          position = factor(position, levels = c("OWT", "WT"),
-                           labels = c("OWT", "WT")),
+                           labels = c("-M", "+M")),
          depth = factor(depth, levels = c("Topsoil", "Subsoil"),
                         labels = c("Topsoil", "Subsoil")))
 
@@ -36,6 +36,12 @@ se <- function(x) sqrt(var(x) / length(x))
 
 desc_est <- data %>%
   group_by(pr, position, depth) %>%
+  summarise(bd_mean = mean(bd),
+            bd_sd= sd(bd),
+            bd_se = se(bd))
+
+data %>%
+  group_by(depth) %>%
   summarise(bd_mean = mean(bd),
             bd_sd= sd(bd),
             bd_se = se(bd))
@@ -129,7 +135,7 @@ model_means_cld_pr_position_depth <- cld(object = model_means_pr_position_depth,
                                 quiet = TRUE)
 
 # show output
-model_means_pr      
+model_means_pr
 model_means_position
 model_means_depth
 model_means_cld_pr_position
@@ -145,7 +151,7 @@ plot_pr_position_depth <- desc_est %>%
   scale_y_continuous(breaks = pretty_breaks(),
                      expand = expansion(mult = c(0,0.1))) +
   coord_cartesian(ylim = c(1, NA)) +
-  labs(y = "Bulk dentisy [g cm<sup>3</sup>]",
+  labs(y = "Bulk density [g cm<sup>-3</sup>]",
        x = "") +
   # bars
   geom_bar(data = desc_est,
@@ -208,7 +214,7 @@ plot_pr_position_depth <- desc_est %>%
                      expand = expansion(mult = c(0.1,0.1)) # add space over and under the figure
   ) +  
   coord_cartesian(ylim = c(NA, NA)) +
-  labs(y = "Bulk dentisy [g cm<sup>3</sup>]",
+  labs(y = "Bulk dentisy [g cm<sup>-3</sup>]",
        x = "") +
   # bars
   geom_point(data = desc_est,

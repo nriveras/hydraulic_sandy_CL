@@ -10,10 +10,11 @@
  #Load the library
  library(ggmap)
  library(ggtext) # remotes::install_github("clauswilke/ggtext")
+ library(ggsn)
  
  #Set your API Key
  # Read key from external file
- key <- paste(readLines("./CODE/maps_static_API_key"))
+ key <- paste(readLines("CODE/maps_static_API_key"))
  ggmap::register_google(key = key)
  
  #Notes: If you get still have a failure then I suggest to restart R and run the library and register google commands again.
@@ -31,7 +32,7 @@ SL_PR <- sf::st_read("DATA/PROCESSED/RP_kriged_SL_0-5.shp", quiet = TRUE)
 # Transform nc to EPSG 3857 (Pseudo-Mercator, what Google uses)
 SL_PR_3857 <- st_transform(SL_PR, 3857)
 
-map <- get_map(location = c(lon = -71.421420, lat = -34.383415),
+map <- ggmap::get_map(location = c(lon = -71.421420, lat = -34.383415),
                maptype = "hybrid", 
                zoom = 17,
                scale = 4,
@@ -43,12 +44,12 @@ ggmap_bbox <- function(map) {
   if (!inherits(map, "ggmap")) stop("map must be a ggmap object")
   # Extract the bounding box (in lat/lon) from the ggmap to a numeric vector, 
   # and set the names to what sf::st_bbox expects:
-  map_bbox <- setNames(unlist(attr(map, "bb")), 
+  map_bbox <- setNames(unlist(attr(map, "bb")),
                        c("ymin", "xmin", "ymax", "xmax"))
   
   # Coonvert the bbox to an sf polygon, transform it to 3857, 
   # and convert back to a bbox (convoluted, but it works)
-  bbox_3857 <- st_bbox(st_transform(st_as_sfc(st_bbox(map_bbox, crs = 4326)), 3857))
+  bbox_3857 <- sf::st_bbox(st_transform(st_as_sfc(st_bbox(map_bbox, crs = 4326)), 3857))
   
   # Overwrite the bbox of the ggmap object with the transformed coordinates 
   attr(map, "bb")$ll.lat <- bbox_3857["ymin"]
@@ -59,19 +60,18 @@ ggmap_bbox <- function(map) {
 }
 
 # Use the function:
-map <- ggmap_bbox(map)
+map_bbox <- ggmap_bbox(map)
 
 limits <- st_bbox(SL_PR_3857)
 
-map <- ggmap(map) +
+map_vis <- ggmap(map_bbox) +
   coord_sf(crs = st_crs(3857)) + # force the ggplot2 map to be in 3857
   geom_sf(aes(fill = var1_class), 
           data = SL_PR_3857, 
           inherit.aes = FALSE, 
           color = "transparent", 
           alpha = 0.5,
-          family="Times",
-          size=12) +
+          family="Times") +
   scale_fill_viridis_d(name = "Penetration Resistance",
                        begin = 0.3,
                        end = 0.8,
@@ -81,15 +81,24 @@ map <- ggmap(map) +
                          title.hjust = .5,
                          label.hjust = .5,
                          label.position = 'bottom',
+                         keyheight = 0.7,
                          keywidth = 5,
-                         keyheight = .5
-                       ))+
+                         inherit.aes = FALSE)) +
   coord_sf(ylim = limits[c(2,4)] + c(-55,55),
            xlim = limits[c(1,3)] + c(-55,55)) +
   theme_void()+
   theme(title=element_text(face='bold'),
-        legend.position = 'bottom')
+        legend.position = 'bottom') +
+  # including scale bar
+  scalebar(x.min = -7950760, x.max = -7950382,
+           y.min = -4080540, y.max = -4080202,
+           dist = 50, dist_unit = "m",
+           st.bottom = TRUE, st.color = "white", 
+           st.dist = .05,
+           transform = FALSE)
 
-map
+# map_vis
+scale_factor <- 0.6
 
-ggsave("./FIGURES/SL_PR.png")
+ggsave("./FIGURES/SL_PR.png", map_vis, width= 9*scale_factor, height = 8*scale_factor)
+
