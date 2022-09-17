@@ -103,4 +103,20 @@ R_KS
 scale_factor <- 0.7
 ggsave("./FIGURES/SL_R_KS.png", R_KS, width= 6*scale_factor, height = 5*scale_factor)
 ggsave("./FIGURES/SL_R_KS.svg", R_KS, width= 6*scale_factor, height = 5*scale_factor)
-         
+
+# 3-way anova
+
+hist(data$Ks)
+hist(data$R)
+
+library(ggpubr)
+ggqqplot(data$Ks) # data is normal
+ggqqplot(data$R) # data is normal
+
+library(car)
+leveneTest(Ks ~ pr*position*depth, data = data) # data is heteroscedastic
+leveneTest(R ~ pr*position*depth, data = data) # data is homoscedastic
+
+anova(lm(Ks ~ pr*position*depth, data = data), test = "F")
+anova(lm(R ~ pr*position*depth, data = data), test = "F")
+
