@@ -19,8 +19,7 @@ library(magrittr)
 library(RColorBrewer)
 
 # Read file --------------------------------------------------------------
-PR_s1 <- read.csv2("./DATA/RAW/SL_PR.csv", encoding = "UTF-8") %>%
-  dplyr::select(-POINT)
+PR_s1 <- read.csv2("./DATA/RAW/SL_PR.csv", encoding = "UTF-8")
 
 # change the degree "°" symbol to a space " "
 PR_s1$COORD_X = gsub('°', ' ', PR_s1$COORD_X)
@@ -72,18 +71,6 @@ gridded(PR1_SL_sp) <- FALSE
 # SL 0-5cm
 v_sl_0 <- gstat::variogram(d0_5 ~ 1, loc = PR1_SL_sp)
 plot(v_sl_0, plot.numbers=TRUE, xlab="separation distance",cutoff=4)
-
-# # Choose lower SSerr
-# SSerr <- c()
-# vmf_sl_0 <- fit.variogram(v_sl_0, vgm(psill = 800000, model = "Sph", range = 50, nugget = 100000))
-# SSerr <-c(SSerr, Sph = attr(vmf_sl_0, "SSErr"))
-# vmf_sl_0 <- fit.variogram(v_sl_0, vgm(psill = 800000, model = "Gau", range = 50, nugget = 100000))
-# SSerr <-c(SSerr, Gau = attr(vmf_sl_0, "SSErr"))
-# vmf_sl_0 <- fit.variogram(v_sl_0, vgm(psill = 800000, model = "Mat", range = 50, nugget = 100000))
-# SSerr <-c(SSerr, Mat = attr(vmf_sl_0, "SSErr"))
-# vmf_sl_0 <- fit.variogram(v_sl_0, vgm(psill = 800000, model = "Exp", range = 50, nugget = 100000))
-# SSerr <-c(SSerr, Exp = attr(vmf_sl_0, "SSErr"))
-# min(SSerr)
 
 # create variogram model
 vmf_sl_0 <- fit.variogram(v_sl_0, vgm(psill = 800000, model = "Sph", range = 50, nugget = 100000))
