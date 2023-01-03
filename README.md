@@ -13,4 +13,4 @@ Keywords: soil physical functioning, hydraulic conductivity, conventional tillag
 The authors thank the Departamento de Ingeniería y Suelos of the Universidad de Chile and the Cooperativa Intercomunal Campesina de Peumo (COOPEUMO) for supporting this study. This research was partially funded by FONDECYT de Iniciación 2011 grant no. 11110464. Special thanks to Patrick Schloss for the inspiration to improve the reproducibility of research through his project [riffomonas.org](https://riffomonas.org/ "Pat's webpage").
 
 # Project status
-(in preparation)
+published!
