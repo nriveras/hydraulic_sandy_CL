@@ -26,7 +26,7 @@ data <- read.csv2("./DATA/RAW/SL_soil_dataset.csv", encoding = "UTF-8", check.na
   mutate(pr = factor(pr, levels = c("High PR", "Low PR"),
                        labels = c("High PR", "Low PR")),
          position = factor(position, levels = c("OWT", "WT"),
-                           labels = c("-M", "+M")),
+                           labels = c("−M", "+M")),
          depth = factor(depth, levels = c("Topsoil", "Subsoil"),
                         labels = c("Topsoil", "Subsoil")))
 
@@ -214,7 +214,7 @@ plot_pr_position_depth <- desc_est %>%
                      expand = expansion(mult = c(0.1,0.1)) # add space over and under the figure
   ) +  
   coord_cartesian(ylim = c(NA, NA)) +
-  labs(y = "Bulk dentisy [g cm<sup>-3</sup>]",
+  labs(y = "Bulk density [g cm<sup>-3</sup>]",
        x = "") +
   # bars
   geom_point(data = desc_est,
@@ -263,9 +263,9 @@ plot_pr_position_depth <- desc_est %>%
 plot_pr_position_depth
 
 scale_factor <- 0.7
-ggsave(file="FIGURES/DB_point.png", plot_pr_position_depth, 
+ggsave(file="FIGURES/BD_point.png", plot_pr_position_depth, 
        width= 8*scale_factor, height = 4*scale_factor)
-ggsave(file="FIGURES/DB_point.svg", plot_pr_position_depth, 
+ggsave(file="FIGURES/BD_point.svg", plot_pr_position_depth, 
        width= 8*scale_factor, height = 4*scale_factor)
 
 

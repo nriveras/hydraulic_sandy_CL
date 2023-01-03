@@ -1,23 +1,23 @@
 # Penetration Resistance (PR) visualization ------------------------------
 # restart environment ----------------------------------------------------
- rm(list=ls())
- 
+rm(list=ls())
+
 # ggmap setup -------------------------------------------------------------
- #Get the latest Install
- if(!requireNamespace("devtools")) install.packages("devtools")
- devtools::install_github("dkahle/ggmap", ref = "tidyup", force=TRUE)
- 
- #Load the library
- library(ggmap)
- library(ggtext) # remotes::install_github("clauswilke/ggtext")
- library(ggsn)
- 
- #Set your API Key
- # Read key from external file
- key <- paste(readLines("CODE/maps_static_API_key"))
- ggmap::register_google(key = key)
- 
- #Notes: If you get still have a failure then I suggest to restart R and run the library and register google commands again.
+#Get the latest Install
+if(!requireNamespace("devtools")) install.packages("devtools")
+devtools::install_github("dkahle/ggmap", ref = "tidyup", force=TRUE)
+
+#Load the library
+library(ggmap)
+library(ggtext) # remotes::install_github("clauswilke/ggtext")
+library(ggsn)
+
+#Set your API Key
+# Read key from external file
+key <- paste(readLines("CODE/maps_static_API_key"))
+ggmap::register_google(key = key)
+
+#Notes: If you get still have a failure then I suggest to restart R and run the library and register google commands again.
 
 # plot predicted maps -----------------------------------------------------
 # from stackoverflow -------------------------------------------------------
@@ -36,11 +36,11 @@ SL_PR_3857 <- st_transform(SL_PR, 3857)
 sampling_sites_3857 <- st_transform(sampling_sites, 3857)
 
 map <- ggmap::get_map(location = c(lon = -71.421420, lat = -34.383415),
-               maptype = "hybrid", 
-               zoom = 17,
-               scale = 4,
-               source = "google",
-               crop=TRUE)
+                      maptype = "hybrid", 
+                      zoom = 17,
+                      scale = 4,
+                      source = "google",
+                      crop=TRUE)
 
 # Define a function to fix the bbox to be in EPSG:3857
 ggmap_bbox <- function(map) {
@@ -89,12 +89,12 @@ map_vis <- ggmap(map_bbox) +
                          inherit.aes = FALSE)) +
   # adding sampling sites
   geom_sf(aes(),
-    data = sampling_sites_3857, 
-    inherit.aes = FALSE,
-    color = c("black"),
-    show.legend = FALSE,
-    shape = 0) +
-    coord_sf(ylim = limits[c(2,4)] + c(-55,55),
+          data = sampling_sites_3857, 
+          inherit.aes = FALSE,
+          color = c("black"),
+          show.legend = FALSE,
+          shape = 0) +
+  coord_sf(ylim = limits[c(2,4)] + c(-55,55),
            xlim = limits[c(1,3)] + c(-55,55)) +
   theme_void()+
   theme(title=element_text(face='bold'),
