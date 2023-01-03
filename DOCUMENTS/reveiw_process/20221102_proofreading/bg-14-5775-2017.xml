@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing with OASIS Tables v3.0 20080202//EN" "journalpub-oasis3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:oasis="http://docs.oasis-open.org/ns/oasis-exchange/table" dtd-version="3.0">
+  <front>
+    <journal-meta><journal-id journal-id-type="publisher">BG</journal-id><journal-title-group>
+    <journal-title>Biogeosciences</journal-title>
+    <abbrev-journal-title abbrev-type="publisher">BG</abbrev-journal-title><abbrev-journal-title abbrev-type="nlm-ta">Biogeosciences</abbrev-journal-title>
+  </journal-title-group><issn pub-type="epub">1726-4189</issn><publisher>
+    <publisher-name>Copernicus Publications</publisher-name>
+    <publisher-loc>Göttingen, Germany</publisher-loc>
+  </publisher></journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.5194/bg-14-5775-2017</article-id><title-group><article-title>Bryophyte-dominated biological soil crusts mitigate soil erosion in an early successional Chinese subtropical forest</article-title>
+      </title-group><?xmltex \runningtitle{Biological soil crusts mitigate soil erosion in subtropical forests}?><?xmltex \runningauthor{S.~Seitz et al.}?>
+      <contrib-group>
+        <contrib contrib-type="author" corresp="yes" rid="aff1">
+          <name><surname>Seitz</surname><given-names>Steffen</given-names></name>
+          <email>steffen.seitz@uni-tuebingen.de</email>
+        <ext-link>https://orcid.org/0000-0003-4911-3906</ext-link></contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff2 aff3">
+          <name><surname>Nebel</surname><given-names>Martin</given-names></name>
+          
+        </contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff1">
+          <name><surname>Goebes</surname><given-names>Philipp</given-names></name>
+          
+        <ext-link>https://orcid.org/0000-0001-8264-9070</ext-link></contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff1">
+          <name><surname>Käppeler</surname><given-names>Kathrin</given-names></name>
+          
+        </contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff1">
+          <name><surname>Schmidt</surname><given-names>Karsten</given-names></name>
+          
+        </contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff4">
+          <name><surname>Shi</surname><given-names>Xuezheng</given-names></name>
+          
+        </contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff1 aff4">
+          <name><surname>Song</surname><given-names>Zhengshan</given-names></name>
+          
+        </contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff5">
+          <name><surname>Webber</surname><given-names>Carla L.</given-names></name>
+          
+        </contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff6">
+          <name><surname>Weber</surname><given-names>Bettina</given-names></name>
+          
+        <ext-link>https://orcid.org/0000-0002-5453-3967</ext-link></contrib>
+        <contrib contrib-type="author" corresp="no" rid="aff1">
+          <name><surname>Scholten</surname><given-names>Thomas</given-names></name>
+          
+        <ext-link>https://orcid.org/0000-0002-4875-2602</ext-link></contrib>
+        <aff id="aff1"><label>1</label><institution>Soil Science and Geomorphology, Department of Geosciences, University of Tübingen, <?xmltex \hack{\newline}?> 72070 Tübingen,   Germany</institution>
+        </aff>
+        <aff id="aff2"><label>2</label><institution>State Museum of Natural History, 70191 Stuttgart,  Germany</institution>
+        </aff>
+        <aff id="aff3"><label>3</label><institution>Nees Institute for Biodiversity of Plants, University of Bonn, 53115 Bonn,   Germany</institution>
+        </aff>
+        <aff id="aff4"><label>4</label><institution>State Key Laboratory of Soil and Sustainable Agriculture, Institute of Soil Science, Chinese Academy of <?xmltex \hack{\break}?> Sciences,  Nanjing, 210008, PR China</institution>
+        </aff>
+        <aff id="aff5"><label>5</label><institution>Department of Geosciences, Federal University of Rio Grande do Sul, Porto Alegre, 90040-060, Brazil</institution>
+        </aff>
+        <aff id="aff6"><label>6</label><institution>Multiphase Chemistry Department, Max Planck Institute for Chemistry, 55128 Mainz,  Germany</institution>
+        </aff>
+      </contrib-group>
+      <author-notes><corresp id="corr1">Steffen Seitz (steffen.seitz@uni-tuebingen.de)</corresp></author-notes><pub-date><day>22</day><month>December</month><year>2017</year></pub-date>
+      
+      <volume>14</volume>
+      <issue>24</issue>
+      <fpage>5775</fpage><lpage>5788</lpage>
+      <history>
+        <date date-type="received"><day>17</day><month>March</month><year>2017</year></date>
+           <date date-type="accepted"><day>12</day><month>November</month><year>2017</year></date>
+           <date date-type="rev-recd"><day>2</day><month>November</month><year>2017</year></date>
+           <date date-type="rev-request"><day>29</day><month>March</month><year>2017</year></date>
+      </history>
+      <permissions>
+        
+        
+      <license license-type="open-access"><license-p>This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this licence, visit <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/3.0/">https://creativecommons.org/licenses/by/3.0/</ext-link></license-p></license></permissions><self-uri xlink:href="https://bg.copernicus.org/articles/14/5775/2017/bg-14-5775-2017.html">This article is available from https://bg.copernicus.org/articles/14/5775/2017/bg-14-5775-2017.html</self-uri><self-uri xlink:href="https://bg.copernicus.org/articles/14/5775/2017/bg-14-5775-2017.pdf">The full text article is available as a PDF file from https://bg.copernicus.org/articles/14/5775/2017/bg-14-5775-2017.pdf</self-uri>
+      <abstract>
+    <p id="d1e199">This study investigated the development of biological soil crusts (biocrusts)
+in an early successional subtropical forest plantation
+and their impact on soil erosion. Within a biodiversity and ecosystem functioning experiment in southeast China (biodiversity and ecosystem functioning (BEF) China), the
+effect of these biocrusts on sediment delivery and runoff was assessed within micro-scale runoff plots under natural rainfall, and
+biocrust cover was surveyed over a 5-year period.</p>
+    <p id="d1e202">Results showed that biocrusts occurred widely in the experimental forest ecosystem and developed from initial light cyanobacteria-
+and algae-dominated crusts to later-stage bryophyte-dominated crusts within only 3 years. Biocrust cover was still increasing
+after 6 years of tree growth. Within later-stage crusts, 25 bryophyte species were determined.  Surrounding vegetation cover and
+terrain attributes significantly influenced the development of biocrusts. Besides high crown cover and leaf area index, the
+development of biocrusts was favoured by low slope gradients, slope orientations towards the incident sunlight and the altitude of
+the research plots. Measurements showed that bryophyte-dominated biocrusts strongly decreased soil erosion, being more effective than
+abiotic soil surface cover.  Hence, their significant role in mitigating sediment delivery and runoff generation in mesic forest
+environments and their ability to quickly colonise soil surfaces after disturbance are of particular interest for soil erosion
+control in early-stage forest plantations.</p>
+  </abstract>
+    </article-meta>
+  </front>
+<body>
+      
+
+<sec id="Ch1.S1" sec-type="intro">
+  <title>Introduction</title>
+      <p id="d1e212">Biological soil crusts (hereinafter referred to as biocrusts) are a living soil cover, which plays significant functional roles in many
+environments (Weber et al., 2016). In initial ecosystems, communities of cyanobacteria, algae, fungi, lichens, bryophytes and bacteria
+in varying combinations are the first to colonise the substrate (Evans and Johansen, 1999). Biocrusts are often dominated by one
+organism group, with cyanobacterial crusts being indicators of early-stage crusts and drier conditions (Malam Issa et al., 1999, 2007)
+and bryophyte-dominated crusts being indicators of later-stage crusts and moister conditions (Colesie et al., 2016; Seppelt et al.,
+2016). These highly specialised communities form a biological crust immediately on top of or within the first millimetres of the soil
+surface (Büdel, 2005). Biocrusts preferably occur under harsh conditions of temperature or light, where vascular vegetation tends
+to be rare (Allen, 2010). Therefore, biocrusts are generally widespread under dryland conditions (Berkeley et al., 2005; Belnap, 2006;
+Büdel et al., 2009), whereas under mesic conditions they mostly occur as a successional stage after disturbance or in environments
+under regularly disturbed regimes (Büdel et al., 2014).</p>
+      <p id="d1e215">In direct competition with phanerogamic plants, biocrusts are generally in an inferior position, and thus their development is limited
+under closed plant canopies or when leaf litter layers occur (Belnap et al., 2003a).  This limitation is due to the competition for
+light (Malam Issa et al., 1999) and nutrients (Harper and Belnap, 2001). Disturbance of the phanerogamic vegetation layers, however,
+changes this competitive situation.  Such disturbances can occur in forest ecosystems by natural tree fall or human-induced
+clear-cutting (Barnes and Spurr, 1998). Complete removal of a forest causes a harsh shift in vegetation development and creates
+a starting point for new vascular plant as well as biocrust communities (Bormann et al., 1968; Keenan and Kimmins, 1993; Beck et al.,
+2008). Biocrusts are able to quickly colonise natural clearances in tree layers (Belnap et al., 2003a) as well as gaps appearing after
+human disturbance (Dojani et al., 2011; Chiquoine et al., 2016). Generally, it can be stated that current knowledge on the relation
+between the development of biocrust cover and vascular plant cover leaves room for further research (Kleiner and Harper, 1977; Belnap
+et al., 2003b; Zhang et al., 2016). In particular, there are only few studies on the development of biocrusts in early successional
+forest ecosystems (Su et al., 2007; Zhang et al., 2016), but we assume that biocrusts are able to coexist in these mesic environments
+shortly after deforestation. Furthermore, descriptions of different biocrust types in mesic vegetation zones and investigations in
+southeast Asia are rare (Büdel, 2003; Bowker et al., 2016).</p>
+      <p id="d1e218">Functional roles of biocrusts have been investigated for decades, but less attention has been paid to their spatial distribution and
+characteristics (Allen, 2010). Biocrust cover varies across spatial scales (from centimetres to kilometres), and it could be shown that
+it depends not only on the surrounding vascular vegetation cover but also on soils, geomorphology, and (micro-)topography or terrain
+(Evans and Johansen, 1999; Ullmann and Büdel, 2003; Kidron et al., 2009; Bowker et al., 2016) in arid, semi-arid, temperate and
+boreal environments. Different biocrust distributions have been related to elevation and terrain-influenced microclimatic gradients
+(Kutiel et al., 1998), different geomorphic zones (Eldridge, 1999), varying aspects (George et al., 2000) and soil types (Bu et al.,
+2016). We assume that this is also true for mesic subtropical forest environments. To our knowledge, investigations of the influence of
+small-scale (centimetres to metres) topographic variations in biocrust development are rare, and further studies will help to understand
+the role of these small-scale factors (Garcia-Pichel and Belnap, 2003; Bu et al., 2016; Bowker et al., 2016). Furthermore, as the
+development of biocrusts is characterised by a high complexity and spatial heterogeneity with many microclimatic and
+micro-environmental factors, it is of great significance to conduct comparative studies on the spatial distribution of biocrusts (Bu
+et al., 2013).</p>
+      <p id="d1e221">Biocrusts were recognised as having a major influence on terrestrial ecosystems (Buscot and Varma, 2005; Belnap, 2006) as they protect
+soil surfaces against erosive forces by both wind and water (Bowker et al., 2008; Zhao et al., 2014). They can absorb the kinetic
+energy of rain drops (splash effect), decrease shear forces and stabilise soil particles with protonemal mats and fine rhizoids and
+thus decrease particle detachment and enhance soil stability (Malam Issa et al., 2001; Warren, 2003; Belnap and Lange, 2003). These
+effects differ with regard to soil texture, surface roughness, water repellency and finally different crust species and developmental
+stages (Warren, 2003; Belnap and Büdel, 2016). However, studies that directly relate different types of biocrust cover to rates of
+soil erosion are few (Allen, 2010). Furthermore, the influence of biocrusts on sediment delivery and runoff has mostly been
+investigated in arid and semi-arid climates and humid climates have been largely disregarded (Belnap and Lange, 2003; Weber et al.,
+2016).</p>
+      <p id="d1e225">This study aims to investigate the development of biocrust cover in an early successional subtropical forest ecosystem after human
+disturbance and the impact of those biocrusts on soil erosion. Therefore, interrill erosion was measured with runoff plots and the
+occurrence, distribution and development of biocrusts was recorded. The study was conducted in an experimental forest plantation, which
+aims to study biodiversity and ecosystem functioning relationships in southeast China (biodiversity and ecosystem functioning (BEF) China; for further information see Yang
+et al., 2013; Bruelheide et al., 2014; Trogisch et al., 2017).  During the study, the following hypotheses were addressed:
+<list list-type="order"><list-item>
+      <p id="d1e230">Biocrusts are able to coexist in mesic early successional subtropical forest ecosystems, but crust cover decreases with
+ongoing canopy closure and decreasing light intensity.</p></list-item><list-item>
+      <p id="d1e234">The development of biocrusts in mesic subtropical forests is not only influenced by the surrounding vegetation cover but also by major soil attributes which influence biocrust growth and by terrain attributes which affect microclimatic conditions.</p></list-item><list-item>
+      <p id="d1e238">Biocrusts mitigate interrill soil erosion in early successional subtropical forest plantations.</p></list-item></list></p>
+</sec>
+<sec id="Ch1.S2">
+  <title>Material and methods</title>
+<sec id="Ch1.S2.SS1">
+  <title>Study site and experimental design</title>
+      <p id="d1e252">The study was carried out within the BEF China experiment (Bruelheide et al., 2014) in
+Xingangshan, Jiangxi Province, PR China (29<inline-formula><mml:math id="M1" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>06.450<inline-formula><mml:math id="M2" display="inline"><mml:msup><mml:mi/><mml:mo>′</mml:mo></mml:msup></mml:math></inline-formula> N, 117<inline-formula><mml:math id="M3" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>55.450<inline-formula><mml:math id="M4" display="inline"><mml:msup><mml:mi/><mml:mo>′</mml:mo></mml:msup></mml:math></inline-formula> E). The experimental area
+is located in a mountainous landscape at an elevation of 100 to 265 <inline-formula><mml:math id="M5" display="inline"><mml:mrow><mml:mi mathvariant="normal">m</mml:mi><mml:mspace width="0.125em" linebreak="nobreak"/><mml:mi mathvariant="normal">a</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">s</mml:mi><mml:mo>.</mml:mo><mml:mi mathvariant="normal">l</mml:mi><mml:mo>.</mml:mo></mml:mrow></mml:math></inline-formula> with slopes from 15<inline-formula><mml:math id="M6" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula> to 41<inline-formula><mml:math id="M7" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>
+(Scholten et al., 2017). The bedrock is non-calcareous sandstones, siltstones and slates weathered to saprolite, and the predominant soil
+types are Cambisols with Anthrosols in downslope positions and Gleysols in valleys (Scholten et al., 2017). The particle size
+distribution was quite homogenous throughout the experimental area, having loam as the main texture class (Scholten et al., 2017). The
+mean annual temperature is 17.4 <inline-formula><mml:math id="M8" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>C, and the annual precipitation is 1635 <inline-formula><mml:math id="M9" display="inline"><mml:mi mathvariant="normal">mm</mml:mi></mml:math></inline-formula> with about 50 % falling during May to
+August (Goebes et al., 2015). The climate is typical for summer monsoon subtropical regions. The potential natural vegetation of this
+region is a subtropical broadleaved forest with dominating evergreen species. It was widely replaced by tree plantations of mostly
+<italic>Cunninghamia lanceolata</italic> for the purpose of commercial forestry in the 1980s (Bruelheide et al., 2014). The experimental area
+(approx. 38 <inline-formula><mml:math id="M10" display="inline"><mml:mi mathvariant="normal">ha</mml:mi></mml:math></inline-formula>) is structured in 566 research plots (<inline-formula><mml:math id="M11" display="inline"><mml:mrow><mml:mn mathvariant="normal">25.8</mml:mn><mml:mspace width="0.125em" linebreak="nobreak"/><mml:mi mathvariant="normal">m</mml:mi><mml:mo>×</mml:mo><mml:mn mathvariant="normal">25.8</mml:mn><mml:mspace width="0.125em" linebreak="nobreak"/><mml:mi mathvariant="normal">m</mml:mi></mml:mrow></mml:math></inline-formula> each) at two sites (A and B) and
+was clear-cut and replanted with 400 tree saplings per plot in different tree species mixtures in 2009 and 2010 (Yang et al.,
+2013). A selection of 34 research plots was used for this study (cf. Seitz et al., 2016). Shrubs and coppices were weeded once a year
+from 2010 to 2012 to help the tree saplings grow, following common practice in forest plantations of this area.</p>
+
+<?xmltex \floatpos{t}?><table-wrap id="Ch1.T1"><caption><p id="d1e379">Erosion, soil, soil cover, vegetation and terrain attributes in 170
+runoff plots (ROPs) and on 34 research plots (with five ROPs each) in
+Xingangshan, Jiangxi Province, PR China, in 2013.</p></caption><oasis:table frame="topbot"><?xmltex \begin{scaleboxenv}{.90}[.90]?><oasis:tgroup cols="5">
+     <oasis:colspec colnum="1" colname="col1" align="left"/>
+     <oasis:colspec colnum="2" colname="col2" align="right"/>
+     <oasis:colspec colnum="3" colname="col3" align="right"/>
+     <oasis:colspec colnum="4" colname="col4" align="right"/>
+     <oasis:colspec colnum="5" colname="col5" align="right"/>
+     <oasis:thead>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1"/>  
+         <oasis:entry colname="col2">Min</oasis:entry>  
+         <oasis:entry colname="col3">Mean</oasis:entry>  
+         <oasis:entry colname="col4">Max</oasis:entry>  
+         <oasis:entry colname="col5">SD</oasis:entry>
+       </oasis:row>
+     </oasis:thead>
+     <oasis:tbody>
+       <oasis:row rowsep="1">  
+         <oasis:entry namest="col1" nameend="col5" align="center">Runoff plots (four measured rainfall events, <inline-formula><mml:math id="M12" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">334</mml:mn></mml:mrow></mml:math></inline-formula>) </oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Sediment delivery (<inline-formula><mml:math id="M13" display="inline"><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mspace linebreak="nobreak" width="0.125em"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>)</oasis:entry>  
+         <oasis:entry colname="col2">21.6</oasis:entry>  
+         <oasis:entry colname="col3">195.5</oasis:entry>  
+         <oasis:entry colname="col4">989.0</oasis:entry>  
+         <oasis:entry colname="col5">165.8</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Surface runoff (<inline-formula><mml:math id="M14" display="inline"><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mspace width="0.125em" linebreak="nobreak"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>)</oasis:entry>  
+         <oasis:entry colname="col2">3.1</oasis:entry>  
+         <oasis:entry colname="col3">40.3</oasis:entry>  
+         <oasis:entry colname="col4">111.8</oasis:entry>  
+         <oasis:entry colname="col5">21.7</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Rainfall amount (mm)</oasis:entry>  
+         <oasis:entry colname="col2">25</oasis:entry>  
+         <oasis:entry colname="col3">94</oasis:entry>  
+         <oasis:entry colname="col4">178</oasis:entry>  
+         <oasis:entry colname="col5">28</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry namest="col1" nameend="col5" align="center">Runoff plots (ROPs in use, <inline-formula><mml:math id="M15" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">170</mml:mn></mml:mrow></mml:math></inline-formula>) </oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Slope (<inline-formula><mml:math id="M16" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>)</oasis:entry>  
+         <oasis:entry colname="col2">5</oasis:entry>  
+         <oasis:entry colname="col3">29</oasis:entry>  
+         <oasis:entry colname="col4">60</oasis:entry>  
+         <oasis:entry colname="col5">6</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Soil cover (%)</oasis:entry>  
+         <oasis:entry colname="col2">0</oasis:entry>  
+         <oasis:entry colname="col3">19</oasis:entry>  
+         <oasis:entry colname="col4">62</oasis:entry>  
+         <oasis:entry colname="col5">14</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">– Biological soil crust cover (%)</oasis:entry>  
+         <oasis:entry colname="col2">0</oasis:entry>  
+         <oasis:entry colname="col3">24</oasis:entry>  
+         <oasis:entry colname="col4">62</oasis:entry>  
+         <oasis:entry colname="col5">14</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">– Stone cover (%)</oasis:entry>  
+         <oasis:entry colname="col2">0</oasis:entry>  
+         <oasis:entry colname="col3">4</oasis:entry>  
+         <oasis:entry colname="col4">42</oasis:entry>  
+         <oasis:entry colname="col5">6</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Crown cover (%)</oasis:entry>  
+         <oasis:entry colname="col2">0.00</oasis:entry>  
+         <oasis:entry colname="col3">0.32</oasis:entry>  
+         <oasis:entry colname="col4">1.00</oasis:entry>  
+         <oasis:entry colname="col5">0.34</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Leaf area index (LAI)</oasis:entry>  
+         <oasis:entry colname="col2">0.00</oasis:entry>  
+         <oasis:entry colname="col3">0.73</oasis:entry>  
+         <oasis:entry colname="col4">5.35</oasis:entry>  
+         <oasis:entry colname="col5">1.04</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry namest="col1" nameend="col5" align="center">Research plots (<inline-formula><mml:math id="M17" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">34</mml:mn></mml:mrow></mml:math></inline-formula>) </oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Bulk soil density (<inline-formula><mml:math id="M18" display="inline"><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mspace width="0.125em" linebreak="nobreak"/><mml:msup><mml:mi mathvariant="normal">cm</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>)</oasis:entry>  
+         <oasis:entry colname="col2">0.83</oasis:entry>  
+         <oasis:entry colname="col3">0.98</oasis:entry>  
+         <oasis:entry colname="col4">1.12</oasis:entry>  
+         <oasis:entry colname="col5">0.06</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Soil organic matter (%)</oasis:entry>  
+         <oasis:entry colname="col2">4.2</oasis:entry>  
+         <oasis:entry colname="col3">6.5</oasis:entry>  
+         <oasis:entry colname="col4">9.7</oasis:entry>  
+         <oasis:entry colname="col5">1.7</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">pH (KCl)</oasis:entry>  
+         <oasis:entry colname="col2">3.24</oasis:entry>  
+         <oasis:entry colname="col3">3.66</oasis:entry>  
+         <oasis:entry colname="col4">4.00</oasis:entry>  
+         <oasis:entry colname="col5">0.18</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Altitude (m)</oasis:entry>  
+         <oasis:entry colname="col2">119</oasis:entry>  
+         <oasis:entry colname="col3">167</oasis:entry>  
+         <oasis:entry colname="col4">244</oasis:entry>  
+         <oasis:entry colname="col5">37</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">MCCA</oasis:entry>  
+         <oasis:entry colname="col2">0.98</oasis:entry>  
+         <oasis:entry colname="col3">2.07</oasis:entry>  
+         <oasis:entry colname="col4">3.81</oasis:entry>  
+         <oasis:entry colname="col5">0.83</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">TRI</oasis:entry>  
+         <oasis:entry colname="col2">0.72</oasis:entry>  
+         <oasis:entry colname="col3">2.39</oasis:entry>  
+         <oasis:entry colname="col4">3.86</oasis:entry>  
+         <oasis:entry colname="col5">0.59</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Eastness</oasis:entry>  
+         <oasis:entry colname="col2"><inline-formula><mml:math id="M19" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>0.86</oasis:entry>  
+         <oasis:entry colname="col3">0.09</oasis:entry>  
+         <oasis:entry colname="col4">0.99</oasis:entry>  
+         <oasis:entry colname="col5">0.56</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Northness</oasis:entry>  
+         <oasis:entry colname="col2"><inline-formula><mml:math id="M20" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>0.87</oasis:entry>  
+         <oasis:entry colname="col3">0.23</oasis:entry>  
+         <oasis:entry colname="col4">0.99</oasis:entry>  
+         <oasis:entry colname="col5">0.62</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Tree height (m)</oasis:entry>  
+         <oasis:entry colname="col2">1.0</oasis:entry>  
+         <oasis:entry colname="col3">2.2</oasis:entry>  
+         <oasis:entry colname="col4">7.4</oasis:entry>  
+         <oasis:entry colname="col5">1.7</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Crown width (m)</oasis:entry>  
+         <oasis:entry colname="col2">0.4</oasis:entry>  
+         <oasis:entry colname="col3">1.2</oasis:entry>  
+         <oasis:entry colname="col4">3.0</oasis:entry>  
+         <oasis:entry colname="col5">0.8</oasis:entry>
+       </oasis:row>
+     </oasis:tbody>
+   </oasis:tgroup><?xmltex \end{scaleboxenv}?></oasis:table><?xmltex \begin{scaleboxenv}{.9}[.9]?><table-wrap-foot><p id="d1e382">Soil cover: proportion of soil surface area covered by biocrusts or stones;
+crown cover: proportion of soil surface area covered by crowns of live
+trees; leaf area index: one-sided green leaf area per unit soil surface
+area; MCCA: Monte Carlo based flow accumulation (Behrens et al., 2008); TRI: terrain
+ruggedness index (Riley et al., 1999); eastness and northness: state of being east or
+north (Roberts, 1986); tree height: distance from stem base to apical meristem;
+crown width: length of longest spread from edge to edge across the crown; min: minimum; max: maximum; SD: standard deviation.</p></table-wrap-foot><?xmltex \end{scaleboxenv}?></table-wrap>
+
+</sec>
+<sec id="Ch1.S2.SS2">
+  <title>Field methods</title>
+      <p id="d1e901">Biocrust cover was determined photogrammetrically in 70 selected micro-scale runoff plots (ROPs; <inline-formula><mml:math id="M21" display="inline"><mml:mrow><mml:mn mathvariant="normal">0.4</mml:mn><mml:mspace linebreak="nobreak" width="0.125em"/><mml:mi mathvariant="normal">m</mml:mi><mml:mo>×</mml:mo><mml:mn mathvariant="normal">0.4</mml:mn><mml:mspace width="0.125em" linebreak="nobreak"/><mml:mi mathvariant="normal">m</mml:mi></mml:mrow></mml:math></inline-formula>;
+Seitz et al., 2015; Trogisch et al., 2017) at five time steps (November 2011, May 2012, May 2013, May 2014 and May 2015). Biocrust
+species were first described in the field based on appearance and functional groups. Biocrust types were then determined based on the
+dominating autotrophic component (highest share of total biocrust cover per ROP). During the rainy season in summer 2013, an extended
+survey together with soil erosion measurements (see below) was conducted in five ROPs on 34 research plots each (170 ROPs in
+total; Table 1). At each ROP, perpendicular images were taken with a single-lens reflex camera system (Canon 350D, Tokio, Japan) and processed
+by the grid quadrat method in GIMP 2.8 using a digital grid overlay with 100 subdivisions (cf. Belnap et al., 2001). Stone cover and
+biocrust cover were separated by hue distinction.  A continuous leaf litter cover, which may impede analyses, was not present during
+measurements. Biocrusts were collected in 2013, and samples were dried at 40 <inline-formula><mml:math id="M22" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>C (Dörrex drying unit, Netstal,
+Switzerland). The identification of these sampled species was carried out by morphological characteristics using a stereomicroscope
+(Leitz TS, Wetzlar, Germany), a transmitted-light microscope (Leitz Laborlux S, Wetzlar, Germany) and ultraviolet light. Bryophytes
+(dominating taxa in 2013) were determined to the species level, wherever possible, and separated into mosses (Bischler-Causse, 1989;
+Moos flora of China: Gao et al., 1999, 2001; 2002, 2003; 2005, 2007; 2008, 2011) and liverworts (Zhu, 2006; Söderström et al.,
+2016; A. Schäfer-Verwimp, personal communication, 2016). Comparisons were conducted with
+specimens hosted in the herbarium of the State Museum of Natural History in Stuttgart, Germany (Herbarium STU).</p>
+      <p id="d1e931">Sediment delivery and surface runoff were measured within 170 ROPs in summer 2013 together with an extended biocrust survey (see above
+and Table 1), when tree saplings did not exceed 3 years of age and leaf litter fall was still marginal. After four time steps, 334
+valid ROP measurements entered the analysis (for detailed information see Seitz et al., 2016). Sediment delivery was sampled, dried at
+40 <inline-formula><mml:math id="M23" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>C and weighed, whereas surface runoff and rainfall amount were measured in situ. At every ROP, crown cover and leaf area
+index (LAI) were measured with a fish-eye camera system (Nikon D100 with Nikon AF G DX 180<inline-formula><mml:math id="M24" display="inline"><mml:msup><mml:mi/><mml:mo>∘</mml:mo></mml:msup></mml:math></inline-formula>, Tokio, Japan) and calculated with
+HemiView V.8 (Delta-T devices, Cambridge, UK). Measurements of tree height and crown width were provided by Li et al. (2014)
+on a research plot scale (<inline-formula><mml:math id="M25" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">34</mml:mn></mml:mrow></mml:math></inline-formula>). Tree species richness and tree composition resulted from the experimental set-up of BEF China (Bruelheide
+et al., 2014).</p>
+      <p id="d1e964"><?xmltex \hack{\newpage}?>Soil attributes (Table 1) were determined for every research plot (<inline-formula><mml:math id="M26" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">34</mml:mn></mml:mrow></mml:math></inline-formula>, sampling in 2013) using pooled samples from nine point
+measurements each (sampling depth 0–5 <inline-formula><mml:math id="M27" display="inline"><mml:mi mathvariant="normal">cm</mml:mi></mml:math></inline-formula>). Soil pH was measured in KCl (WTW pH meter with Sentix electrodes, Weilheim,
+Germany), bulk soil density was determined by the mass-per-volume method, and total organic carbon (TOC) was measured using heat
+combustion (Elementar Vario EL III, Hanau, Germany). Soil organic matter (SOM) was calculated by multiplying TOC by a factor of 2
+(Pribyl, 2010).</p>
+</sec>
+<sec id="Ch1.S2.SS3">
+  <title>Digital terrain analysis</title>
+      <p id="d1e993">Terrain attributes (Table 1) were derived from a digital elevation model (DEM; <inline-formula><mml:math id="M28" display="inline"><mml:mrow><mml:mn mathvariant="normal">5</mml:mn><mml:mspace width="0.125em" linebreak="nobreak"/><mml:mi mathvariant="normal">m</mml:mi><mml:mo>×</mml:mo><mml:mn mathvariant="normal">5</mml:mn><mml:mspace width="0.125em" linebreak="nobreak"/><mml:mi mathvariant="normal">m</mml:mi></mml:mrow></mml:math></inline-formula>; Scholten et al., 2017)
+on a research plot scale (<inline-formula><mml:math id="M29" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">34</mml:mn></mml:mrow></mml:math></inline-formula>). Attributes were the terrain ruggedness index (TRI; Riley et al., 1999) to describe the heterogeneity
+of the terrain, the Monte Carlo based flow accumulation (MCCA; Behrens et al., 2008) to diagnose terrain driven water availability,
+altitude above sea level to address elevation effects, and the eastness and the northness (Roberts, 1986) to describe plant-related climatic
+conditions. These terrain attributes cover major landscape features of the experimental area and were not correlated. Slope was
+additionally measured with an inclinometer at every ROP (<inline-formula><mml:math id="M30" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">170</mml:mn></mml:mrow></mml:math></inline-formula>; see Seitz et al., 2016).</p>
+</sec>
+<sec id="Ch1.S2.SS4">
+  <title>Statistical methods</title>
+      <p id="d1e1044">The temporal development of biocrust cover (hypothesis 1,
+above) from 2011
+to 2015 was assessed at five time steps within 70 ROPs (see above) by an
+analysis of variance (ANOVA) and Tukey's honestly significant difference
+(HSD) test (<inline-formula><mml:math id="M31" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">350</mml:mn></mml:mrow></mml:math></inline-formula>).</p>
+      <p id="d1e1059">The influences of vegetation, soil and topographic attributes on biocrust
+cover (hypothesis 2) in 170 ROPs (see above) were assessed by linear mixed effects (LME)
+models (<inline-formula><mml:math id="M32" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">334</mml:mn></mml:mrow></mml:math></inline-formula>). Crown cover, bulk soil density, SOM, pH, altitude, slope,
+MCCA, TRI, eastness, northness and tree species richness were fitted as fixed
+effects and biocrust cover as a response variable. The attributes were tested
+with Pearson's correlation coefficient before fitting. LAI was fitted
+individually in exchange with crown cover due to multicollinearity.
+The experimental site and research plot were fitted as random effects, and
+hypotheses were tested with an ANOVA type 1 with a Satterthwaite approximation
+for degrees of freedom.</p>
+      <p id="d1e1074">The influences on soil erosion (hypothesis 3) were assessed by LME models with a restricted maximum likelihood (<inline-formula><mml:math id="M33" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">334</mml:mn></mml:mrow></mml:math></inline-formula>) and sediment delivery and surface
+runoff as response variables. Crown cover, slope, surface
+cover, SOM, rainfall amount and tree species richness were fitted as fixed
+effects. Surface cover was then split into surface cover by biocrusts and by
+stones, which entered the analysis as fixed conjoined factors. Precipitation
+events nested in plot, tree species composition, experimental site and ROP
+nested in plot were fitted as random effects. Attributes were not correlated.
+The hypothesis was tested with an ANOVA type 1 with a Satterthwaite
+approximation for degrees of freedom. Moreover, the Wilcoxon rank sum test
+was applied to test for differences between biocrust cover and stone cover on
+sediment delivery and surface runoff. Therefore, the dataset was split into
+data points where biocrust cover exceeded stone cover (<inline-formula><mml:math id="M34" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">281</mml:mn></mml:mrow></mml:math></inline-formula>) and data
+points where stone cover exceeded biocrust cover (<inline-formula><mml:math id="M35" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">53</mml:mn></mml:mrow></mml:math></inline-formula>).</p>
+      <p id="d1e1113">All response variables were log-transformed before modelling. The dataset was tested for multicollinearity and met all prerequisites
+to carry out ANOVAs. All analyses were performed with R 3.1.2 (R Core Team, 2014). LME modelling was conducted with “lmerTest”
+(Kuznetsova et al., 2014) and rank sum tests with “exactRankTests” (Hothorn and Hornik, 2015). Figures were designed with “ggplot2”
+(Wickham, 2009).</p>
+</sec>
+</sec>
+<sec id="Ch1.S3">
+  <title>Results</title>
+<sec id="Ch1.S3.SS1">
+  <title>Temporal development of biocrust cover</title>
+      <p id="d1e1128">Biocrusts occurred in 94 % of all ROPs, and their cover within ROPs ranged between 1 and 88 % over the course of 5 years. The
+mean biocrust cover of all ROPs more than tripled from their installation in 2011 to the last measurement in 2015 (Fig. 1). The
+increases were significant from 2011 to 2015 and from 2012 to 2013, 2013 to 2014 and 2014 to 2015 (<inline-formula><mml:math id="M36" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.001</mml:mn></mml:mrow></mml:math></inline-formula>).</p>
+
+      <?xmltex \floatpos{t}?><fig id="Ch1.F1"><caption><p id="d1e1145">The development of biological soil crust cover in runoff plots of the BEF China experiment from 2011 to 2015 in Xingangshan,
+Jiangxi Province, PR China (<inline-formula><mml:math id="M37" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">350</mml:mn></mml:mrow></mml:math></inline-formula>). Horizontal lines within box plots represent medians, and diamonds represent means with standard
+error bars. Points signify outliers and small letters significant differences (<inline-formula><mml:math id="M38" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.001</mml:mn></mml:mrow></mml:math></inline-formula>).</p></caption>
+          <?xmltex \igopts{width=236.157874pt}?><graphic xlink:href="https://bg.copernicus.org/articles/14/5775/2017/bg-14-5775-2017-f01.png"/>
+
+        </fig>
+
+      <?xmltex \floatpos{p}?><fig id="Ch1.F2" specific-use="star"><caption><p id="d1e1180">Successional stages of biological soil crusts in two exemplary runoff plots (top row and bottom row, <inline-formula><mml:math id="M39" display="inline"><mml:mrow><mml:mn mathvariant="normal">0.4</mml:mn><mml:mspace linebreak="nobreak" width="0.125em"/><mml:mi mathvariant="normal">m</mml:mi><mml:mo>×</mml:mo><mml:mn mathvariant="normal">0.4</mml:mn><mml:mspace width="0.125em" linebreak="nobreak"/><mml:mi mathvariant="normal">m</mml:mi></mml:mrow></mml:math></inline-formula> each) in 2011, 2013 and 2015 (from left to right) at the BEF China experiment in Xingangshan, Jiangxi Province,
+PR China.</p></caption>
+          <?xmltex \igopts{width=384.112205pt}?><graphic xlink:href="https://bg.copernicus.org/articles/14/5775/2017/bg-14-5775-2017-f02.jpg"/>
+
+        </fig>
+
+      <?xmltex \floatpos{t}?><fig id="Ch1.F3"><caption><p id="d1e1210">The influence of runoff plots dominated by biological soil crust cover (<inline-formula><mml:math id="M40" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">281</mml:mn></mml:mrow></mml:math></inline-formula>) and stone cover (<inline-formula><mml:math id="M41" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">53</mml:mn></mml:mrow></mml:math></inline-formula>) on sediment delivery
+and surface runoff in Xingangshan, Jiangxi Province, PR China, in 2013. Horizontal lines within box plots represent medians, and
+diamonds represent mean with standard error bars.</p></caption>
+          <?xmltex \igopts{width=236.157874pt}?><graphic xlink:href="https://bg.copernicus.org/articles/14/5775/2017/bg-14-5775-2017-f03.png"/>
+
+        </fig>
+
+<?xmltex \floatpos{p}?><table-wrap id="Ch1.T2" specific-use="star"><caption><p id="d1e1246">Liverwort and moss species sampled in the BEF China experiment in
+Xingangshan, Jiangxi Province, PR China, in 2013.</p></caption><oasis:table frame="topbot"><?xmltex \begin{scaleboxenv}{.97}[.97]?><oasis:tgroup cols="4">
+     <oasis:colspec colnum="1" colname="col1" align="left"/>
+     <oasis:colspec colnum="2" colname="col2" align="left"/>
+     <oasis:colspec colnum="3" colname="col3" align="left"/>
+     <oasis:colspec colnum="4" colname="col4" align="left"/>
+     <oasis:thead>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Family</oasis:entry>  
+         <oasis:entry colname="col2">Species</oasis:entry>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry colname="col4">Author</oasis:entry>
+       </oasis:row>
+     </oasis:thead>
+     <oasis:tbody>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Liverworts</oasis:entry>  
+         <oasis:entry colname="col2"/>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry colname="col4"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Calypogeiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Calypogeia</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>fissa</italic></oasis:entry>  
+         <oasis:entry colname="col4">(L.) Raddi</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Conocephalaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Conocephallum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>salebrosum</italic></oasis:entry>  
+         <oasis:entry colname="col4">Szweyk., Buczk. et Odrzyk.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Lophocoleaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Heteroscyphus</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>zollingeri</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Gottsche) Schiffn.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Marchantiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Marchantia</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>emarginata</italic></oasis:entry>  
+         <oasis:entry colname="col4">Reinw., Blume et Nees</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Acrobolbaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Notoscyphus</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>lutescens</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Lehm. et Lindenb.) Mitt.</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Mosses</oasis:entry>  
+         <oasis:entry colname="col2"/>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry colname="col4"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Polytrichaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Atrichum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>subserratum</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Harv. et Hook. f.) Mitt.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Pottiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Barbula</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>unguiculata</italic></oasis:entry>  
+         <oasis:entry colname="col4">Hedw.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Bryaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Bryum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>argenteum</italic></oasis:entry>  
+         <oasis:entry colname="col4">Hedw.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Leucobryaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Campylopus</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>atrovirens</italic></oasis:entry>  
+         <oasis:entry colname="col4">De Not.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Dicranellaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Dicranella</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>heteromalla</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Hedw.) Schimp.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Pottiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Didymodon</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>constrictus</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Mitt.) K. Saito</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Pottiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Didymodon</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>ditrichoides</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Broth.) X. J. Li et S. He</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Ditrichaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Ditrichum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>pallidum</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Hedw.) Hampe</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Entodontaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Entodon</italic></oasis:entry>  
+         <oasis:entry colname="col3">spec.</oasis:entry>  
+         <oasis:entry colname="col4">sterile</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Hypnaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Hypnum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>cupressiforme</italic></oasis:entry>  
+         <oasis:entry colname="col4">Hedw.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Hypnaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Hypnum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>macrogynum</italic></oasis:entry>  
+         <oasis:entry colname="col4">Besch.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Leucobryaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Leucobryum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>juniperoideum</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Brid.) Müll. Hal.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Bartramiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Philonotis</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>marchica</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Hedw.) Brid.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Bartramiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Philonotis</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>mollis</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Dozy et Molk.) Mitt.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Bartramiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Philonotis</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>roylei</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Hook. f.) Mitt.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Mniaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Plagiomnium</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>acutum</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Lindb.) T. J. Kop.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Polytrichaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Pogonatum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>inflexum</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Lindb.) Sande Lac.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Thuidiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Thuidium</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>glaucinoides</italic></oasis:entry>  
+         <oasis:entry colname="col4">Broth.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Mniaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Trachycystis</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>microphylla</italic></oasis:entry>  
+         <oasis:entry colname="col4">(Dozy et Molk.) Lindb.</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Pottiaceae</oasis:entry>  
+         <oasis:entry colname="col2"><italic>Trichostomum</italic></oasis:entry>  
+         <oasis:entry colname="col3"><italic>crispulum</italic></oasis:entry>  
+         <oasis:entry colname="col4">Bruch</oasis:entry>
+       </oasis:row>
+     </oasis:tbody>
+   </oasis:tgroup><?xmltex \end{scaleboxenv}?></oasis:table></table-wrap>
+
+      <p id="d1e1735">Whereas a clear bryophyte dominance of biocrusts was evident at the time of
+sampling in 2013 (average ROP surface cover 24 %), different successional
+stages were identified in the field and on ROP photos from 2011 to 2015
+(Fig. 2). In 2011, a smooth, light cyanobacteria- and algae-dominated crust
+with few lichens and bryophytes indicated an earlier stage of biocrust
+development (Colesie et al., 2016). In 2013, 25 moss and liverwort species
+were classified (Table 2) and formed a bryophyte-dominated crust, with some
+cyanobacteria, algae, lichens and micro-fungi still observed within ROPs. The
+same was true in 2015, but the first evidence of vascular plants
+(<italic>Selaginella</italic> and <italic>Poaceae</italic>) indicated a further change in the
+vegetation cover of the soil surface.</p>
+</sec>
+<sec id="Ch1.S3.SS2">
+  <title>The influence of vegetation, soil and terrain on biocrust cover</title>
+      <p id="d1e1750">The development of biocrust cover in 2013 was positively influenced by crown cover and LAI as attributes of the surrounding vegetation
+(Table 3).  Furthermore, it was negatively affected by slope and northness and slightly positively affected by the altitude of the
+research plots as terrain attributes (Table 3). Further terrain attributes or any soil attributes did not affect the development of
+biocrust cover.</p>
+
+<?xmltex \floatpos{t}?><table-wrap id="Ch1.T3"><caption><p id="d1e1756">Results of the final linear mixed effects (LME) model for
+vegetation, soil and terrain attributes on biological soil crust cover in
+Xingangshan, Jiangxi Province, PR China, in 2013.</p></caption><oasis:table frame="topbot"><oasis:tgroup cols="6">
+     <oasis:colspec colnum="1" colname="col1" align="left"/>
+     <oasis:colspec colnum="2" colname="col2" align="left"/>
+     <oasis:colspec colnum="3" colname="col3" align="right"/>
+     <oasis:colspec colnum="4" colname="col4" align="right"/>
+     <oasis:colspec colnum="5" colname="col5" align="right"/>
+     <oasis:colspec colnum="6" colname="col6" align="right"/>
+     <oasis:thead>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1"/>  
+         <oasis:entry colname="col2"/>  
+         <oasis:entry namest="col3" nameend="col6" align="left">Biological soil crust cover </oasis:entry>
+       </oasis:row>
+     </oasis:thead>
+     <oasis:tbody>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1"/>  
+         <oasis:entry colname="col2"/>  
+         <oasis:entry colname="col3">denDF</oasis:entry>  
+         <oasis:entry colname="col4">F</oasis:entry>  
+         <oasis:entry colname="col5">Pr</oasis:entry>  
+         <oasis:entry colname="col6">estim.</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry namest="col1" nameend="col2">Fixed effects </oasis:entry>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry colname="col4"/>  
+         <oasis:entry colname="col5"/>  
+         <oasis:entry colname="col6"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Crown cover </oasis:entry>  
+         <oasis:entry colname="col3">136</oasis:entry>  
+         <oasis:entry colname="col4">12.9</oasis:entry>  
+         <oasis:entry colname="col5"><inline-formula><mml:math id="M51" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col6">10.8</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Bulk soil density </oasis:entry>  
+         <oasis:entry colname="col3">37</oasis:entry>  
+         <oasis:entry colname="col4">0.03</oasis:entry>  
+         <oasis:entry colname="col5">ns</oasis:entry>  
+         <oasis:entry colname="col6">3.65</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">SOM </oasis:entry>  
+         <oasis:entry colname="col3">39</oasis:entry>  
+         <oasis:entry colname="col4">1.11</oasis:entry>  
+         <oasis:entry colname="col5">ns</oasis:entry>  
+         <oasis:entry colname="col6">(<inline-formula><mml:math id="M52" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.95</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">pH (KCl) </oasis:entry>  
+         <oasis:entry colname="col3">38</oasis:entry>  
+         <oasis:entry colname="col4">2.47</oasis:entry>  
+         <oasis:entry colname="col5">ns</oasis:entry>  
+         <oasis:entry colname="col6">(<inline-formula><mml:math id="M53" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)16.7</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Altitude </oasis:entry>  
+         <oasis:entry colname="col3">37</oasis:entry>  
+         <oasis:entry colname="col4">3.69</oasis:entry>  
+         <oasis:entry colname="col5"><inline-formula><mml:math id="M54" display="inline"><mml:msup><mml:mi/><mml:msup><mml:mi/><mml:mi mathvariant="normal">⚫</mml:mi></mml:msup></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col6">0.80</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Slope </oasis:entry>  
+         <oasis:entry colname="col3">191</oasis:entry>  
+         <oasis:entry colname="col4">7.53</oasis:entry>  
+         <oasis:entry colname="col5"><inline-formula><mml:math id="M55" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col6">(<inline-formula><mml:math id="M56" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)2.72</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">MCCA </oasis:entry>  
+         <oasis:entry colname="col3">39</oasis:entry>  
+         <oasis:entry colname="col4">0.02</oasis:entry>  
+         <oasis:entry colname="col5">ns</oasis:entry>  
+         <oasis:entry colname="col6">0.33</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">TRI </oasis:entry>  
+         <oasis:entry colname="col3">38</oasis:entry>  
+         <oasis:entry colname="col4">0.04</oasis:entry>  
+         <oasis:entry colname="col5">ns</oasis:entry>  
+         <oasis:entry colname="col6">(<inline-formula><mml:math id="M57" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.40</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Eastness </oasis:entry>  
+         <oasis:entry colname="col3">37</oasis:entry>  
+         <oasis:entry colname="col4">2.73</oasis:entry>  
+         <oasis:entry colname="col5">ns</oasis:entry>  
+         <oasis:entry colname="col6">(<inline-formula><mml:math id="M58" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)4.23</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Northness </oasis:entry>  
+         <oasis:entry colname="col3">37</oasis:entry>  
+         <oasis:entry colname="col4">9.14</oasis:entry>  
+         <oasis:entry colname="col5"><inline-formula><mml:math id="M59" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col6">5.99</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry namest="col1" nameend="col2">Tree species richness </oasis:entry>  
+         <oasis:entry colname="col3">38</oasis:entry>  
+         <oasis:entry colname="col4">1.22</oasis:entry>  
+         <oasis:entry colname="col5">ns</oasis:entry>  
+         <oasis:entry colname="col6">(<inline-formula><mml:math id="M60" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.27</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry namest="col1" nameend="col3">Random effects </oasis:entry>  
+         <oasis:entry colname="col4">SD</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="left">Variance </oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col3">Site </oasis:entry>  
+         <oasis:entry colname="col4"><inline-formula><mml:math id="M61" display="inline"><mml:mrow><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.01</mml:mn></mml:mrow></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="left"><inline-formula><mml:math id="M62" display="inline"><mml:mrow><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.01</mml:mn></mml:mrow></mml:math></inline-formula></oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Plot</oasis:entry>  
+         <oasis:entry colname="col2"/>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry colname="col4"><inline-formula><mml:math id="M63" display="inline"><mml:mrow><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.01</mml:mn></mml:mrow></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="left"><inline-formula><mml:math id="M64" display="inline"><mml:mrow><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.01</mml:mn></mml:mrow></mml:math></inline-formula></oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col6">Vegetation attribute fitted in exchange to crown cover </oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Leaf area index </oasis:entry>  
+         <oasis:entry colname="col3">107</oasis:entry>  
+         <oasis:entry colname="col4">42.8</oasis:entry>  
+         <oasis:entry colname="col5"><inline-formula><mml:math id="M65" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col6">5.98</oasis:entry>
+       </oasis:row>
+     </oasis:tbody>
+   </oasis:tgroup></oasis:table><table-wrap-foot><p id="d1e1759">SOM: soil organic matter; MCCA: monte carlo based flow accumulation; TRI:
+terrain ruggedness index; denDF: denominator degrees of freedom; F: F value;
+Pr: significance; estim.: estimates; SD: standard deviation;
+<inline-formula><mml:math id="M42" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M43" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.001</mml:mn></mml:mrow></mml:math></inline-formula>; <inline-formula><mml:math id="M44" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M45" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.01</mml:mn></mml:mrow></mml:math></inline-formula>; <inline-formula><mml:math id="M46" display="inline"><mml:msup><mml:mi/><mml:mo>∗</mml:mo></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M47" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.05</mml:mn></mml:mrow></mml:math></inline-formula>;
+<inline-formula><mml:math id="M48" display="inline"><mml:msup><mml:mi/><mml:mi mathvariant="normal">⚫</mml:mi></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M49" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.1</mml:mn></mml:mrow></mml:math></inline-formula>; ns: not significant, <inline-formula><mml:math id="M50" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">215</mml:mn></mml:mrow></mml:math></inline-formula>. </p></table-wrap-foot></table-wrap>
+
+<?xmltex \floatpos{t}?><table-wrap id="Ch1.T4" specific-use="star"><caption><p id="d1e2330">Results of the final linear mixed effects (LME) models for sediment delivery and surface runoff, with surface cover split into biological soil crust cover and stone cover in Xingangshan, Jiangxi Province, PR China, in 2013.</p></caption><oasis:table frame="topbot"><oasis:tgroup cols="11">
+     <oasis:colspec colnum="1" colname="col1" align="left"/>
+     <oasis:colspec colnum="2" colname="col2" align="left"/>
+     <oasis:colspec colnum="3" colname="col3" align="left"/>
+     <oasis:colspec colnum="4" colname="col4" align="right"/>
+     <oasis:colspec colnum="5" colname="col5" align="left"/>
+     <oasis:colspec colnum="6" colname="col6" align="left"/>
+     <oasis:colspec colnum="7" colname="col7" align="right"/>
+     <oasis:colspec colnum="8" colname="col8" align="right"/>
+     <oasis:colspec colnum="9" colname="col9" align="right"/>
+     <oasis:colspec colnum="10" colname="col10" align="right"/>
+     <oasis:colspec colnum="11" colname="col11" align="right"/>
+     <oasis:thead>
+       <oasis:row>  
+         <oasis:entry colname="col1"/>  
+         <oasis:entry namest="col2" nameend="col7" align="center">Sediment delivery </oasis:entry>  
+         <oasis:entry namest="col8" nameend="col11" align="center">Surface runoff </oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1"/>  
+         <oasis:entry namest="col2" nameend="col3" align="right">denDF</oasis:entry>  
+         <oasis:entry colname="col4">F</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right">Pr</oasis:entry>  
+         <oasis:entry colname="col7">estim.</oasis:entry>  
+         <oasis:entry colname="col8">denDF</oasis:entry>  
+         <oasis:entry colname="col9">F</oasis:entry>  
+         <oasis:entry colname="col10">Pr</oasis:entry>  
+         <oasis:entry colname="col11">estim.</oasis:entry>
+       </oasis:row>
+     </oasis:thead>
+     <oasis:tbody>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Fixed effects</oasis:entry>  
+         <oasis:entry colname="col2"/>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry colname="col4"/>  
+         <oasis:entry colname="col5"/>  
+         <oasis:entry colname="col6"/>  
+         <oasis:entry colname="col7"/>  
+         <oasis:entry colname="col8"/>  
+         <oasis:entry colname="col9"/>  
+         <oasis:entry colname="col10"/>  
+         <oasis:entry colname="col11"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Crown cover</oasis:entry>  
+         <oasis:entry namest="col2" nameend="col3" align="right">130</oasis:entry>  
+         <oasis:entry colname="col4">6.53</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right"><inline-formula><mml:math id="M75" display="inline"><mml:msup><mml:mi/><mml:mo>∗</mml:mo></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col7">(<inline-formula><mml:math id="M76" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.15</oasis:entry>  
+         <oasis:entry colname="col8">173</oasis:entry>  
+         <oasis:entry colname="col9">9.11</oasis:entry>  
+         <oasis:entry colname="col10"><inline-formula><mml:math id="M77" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col11">(<inline-formula><mml:math id="M78" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.14</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Slope</oasis:entry>  
+         <oasis:entry namest="col2" nameend="col3" align="right">151</oasis:entry>  
+         <oasis:entry colname="col4">1.23</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right">ns</oasis:entry>  
+         <oasis:entry colname="col7">(<inline-formula><mml:math id="M79" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.06</oasis:entry>  
+         <oasis:entry colname="col8">168</oasis:entry>  
+         <oasis:entry colname="col9">2.25</oasis:entry>  
+         <oasis:entry colname="col10"><inline-formula><mml:math id="M80" display="inline"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> ns</oasis:entry>  
+         <oasis:entry colname="col11">(<inline-formula><mml:math id="M81" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.06</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Surface cover</oasis:entry>  
+         <oasis:entry colname="col2"/>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry colname="col4"/>  
+         <oasis:entry colname="col5"/>  
+         <oasis:entry colname="col6"/>  
+         <oasis:entry colname="col7"/>  
+         <oasis:entry colname="col8"/>  
+         <oasis:entry colname="col9"/>  
+         <oasis:entry colname="col10"/>  
+         <oasis:entry colname="col11"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">– Biocrust</oasis:entry>  
+         <oasis:entry namest="col2" nameend="col3" align="right">151</oasis:entry>  
+         <oasis:entry colname="col4">50.2</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right"><inline-formula><mml:math id="M82" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col7">(<inline-formula><mml:math id="M83" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.38</oasis:entry>  
+         <oasis:entry colname="col8">159</oasis:entry>  
+         <oasis:entry colname="col9">8.11</oasis:entry>  
+         <oasis:entry colname="col10"><inline-formula><mml:math id="M84" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col11">(<inline-formula><mml:math id="M85" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.12</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">– Stone</oasis:entry>  
+         <oasis:entry namest="col2" nameend="col3" align="right">136</oasis:entry>  
+         <oasis:entry colname="col4">10.3</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right"><inline-formula><mml:math id="M86" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col7">(<inline-formula><mml:math id="M87" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.19</oasis:entry>  
+         <oasis:entry colname="col8">188</oasis:entry>  
+         <oasis:entry colname="col9">1.66</oasis:entry>  
+         <oasis:entry colname="col10"><inline-formula><mml:math id="M88" display="inline"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> ns</oasis:entry>  
+         <oasis:entry colname="col11">(<inline-formula><mml:math id="M89" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.06</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">SOM</oasis:entry>  
+         <oasis:entry namest="col2" nameend="col3" align="right">44</oasis:entry>  
+         <oasis:entry colname="col4">5.71</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right"><inline-formula><mml:math id="M90" display="inline"><mml:msup><mml:mi/><mml:mo>∗</mml:mo></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col7">(<inline-formula><mml:math id="M91" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.08</oasis:entry>  
+         <oasis:entry colname="col8">72</oasis:entry>  
+         <oasis:entry colname="col9">2.43</oasis:entry>  
+         <oasis:entry colname="col10"><inline-formula><mml:math id="M92" display="inline"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> ns</oasis:entry>  
+         <oasis:entry colname="col11">0.12</oasis:entry>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry colname="col1">Rainfall</oasis:entry>  
+         <oasis:entry namest="col2" nameend="col3" align="right">95</oasis:entry>  
+         <oasis:entry colname="col4">5.46</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right"><inline-formula><mml:math id="M93" display="inline"><mml:msup><mml:mi/><mml:mo>∗</mml:mo></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col7">(<inline-formula><mml:math id="M94" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.08</oasis:entry>  
+         <oasis:entry colname="col8">302</oasis:entry>  
+         <oasis:entry colname="col9">13.2</oasis:entry>  
+         <oasis:entry colname="col10"><inline-formula><mml:math id="M95" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula></oasis:entry>  
+         <oasis:entry colname="col11">0.14</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry colname="col1">Tree species richness</oasis:entry>  
+         <oasis:entry namest="col2" nameend="col3" align="right">22</oasis:entry>  
+         <oasis:entry colname="col4">0.46</oasis:entry>  
+         <oasis:entry namest="col5" nameend="col6" align="right">ns</oasis:entry>  
+         <oasis:entry colname="col7">(<inline-formula><mml:math id="M96" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.05</oasis:entry>  
+         <oasis:entry colname="col8">68</oasis:entry>  
+         <oasis:entry colname="col9">0.11</oasis:entry>  
+         <oasis:entry colname="col10"><inline-formula><mml:math id="M97" display="inline"><mml:mo>&lt;</mml:mo></mml:math></inline-formula> ns</oasis:entry>  
+         <oasis:entry colname="col11">(<inline-formula><mml:math id="M98" display="inline"><mml:mo>-</mml:mo></mml:math></inline-formula>)0.03</oasis:entry>
+       </oasis:row>
+       <oasis:row rowsep="1">  
+         <oasis:entry namest="col1" nameend="col3">Random effects </oasis:entry>  
+         <oasis:entry namest="col4" nameend="col5">SD</oasis:entry>  
+         <oasis:entry namest="col6" nameend="col7" align="right">var.</oasis:entry>  
+         <oasis:entry colname="col8"/>  
+         <oasis:entry colname="col9">SD</oasis:entry>  
+         <oasis:entry colname="col10">var.</oasis:entry>  
+         <oasis:entry colname="col11"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col3">Precip. event: plot </oasis:entry>  
+         <oasis:entry namest="col4" nameend="col5">0.199</oasis:entry>  
+         <oasis:entry namest="col6" nameend="col7" align="right">0.040</oasis:entry>  
+         <oasis:entry colname="col8"/>  
+         <oasis:entry colname="col9">0.537</oasis:entry>  
+         <oasis:entry colname="col10">0.288</oasis:entry>  
+         <oasis:entry colname="col11"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Tree composition </oasis:entry>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry namest="col4" nameend="col5">0.292</oasis:entry>  
+         <oasis:entry namest="col6" nameend="col7" align="right">0.085</oasis:entry>  
+         <oasis:entry colname="col8"/>  
+         <oasis:entry colname="col9">0.000</oasis:entry>  
+         <oasis:entry colname="col10">0.000</oasis:entry>  
+         <oasis:entry colname="col11"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Site </oasis:entry>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry namest="col4" nameend="col5">0.466</oasis:entry>  
+         <oasis:entry namest="col6" nameend="col7" align="right">0.217</oasis:entry>  
+         <oasis:entry colname="col8"/>  
+         <oasis:entry colname="col9">0.443</oasis:entry>  
+         <oasis:entry colname="col10">0.196</oasis:entry>  
+         <oasis:entry colname="col11"/>
+       </oasis:row>
+       <oasis:row>  
+         <oasis:entry namest="col1" nameend="col2">Plot: ROP </oasis:entry>  
+         <oasis:entry colname="col3"/>  
+         <oasis:entry namest="col4" nameend="col5">0.441</oasis:entry>  
+         <oasis:entry namest="col6" nameend="col7" align="right">0.195</oasis:entry>  
+         <oasis:entry colname="col8"/>  
+         <oasis:entry colname="col9">0.269</oasis:entry>  
+         <oasis:entry colname="col10">0.073</oasis:entry>  
+         <oasis:entry colname="col11"/>
+       </oasis:row>
+     </oasis:tbody>
+   </oasis:tgroup></oasis:table><table-wrap-foot><p id="d1e2333">SOM: soil organic matter; denDF: denominator degrees of freedom; F: F value;
+Pr: significance; estim.: estimates; SD: standard deviation; var.: variance;
+<inline-formula><mml:math id="M66" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M67" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.001</mml:mn></mml:mrow></mml:math></inline-formula>; <inline-formula><mml:math id="M68" display="inline"><mml:msup><mml:mi/><mml:mrow><mml:mo>∗</mml:mo><mml:mo>∗</mml:mo></mml:mrow></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M69" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.01</mml:mn></mml:mrow></mml:math></inline-formula>; <inline-formula><mml:math id="M70" display="inline"><mml:msup><mml:mi/><mml:mo>∗</mml:mo></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M71" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.05</mml:mn></mml:mrow></mml:math></inline-formula>;
+<inline-formula><mml:math id="M72" display="inline"><mml:msup><mml:mi/><mml:mi mathvariant="normal">⚫</mml:mi></mml:msup></mml:math></inline-formula> <inline-formula><mml:math id="M73" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.1</mml:mn></mml:mrow></mml:math></inline-formula>; ns: not significant, <inline-formula><mml:math id="M74" display="inline"><mml:mrow><mml:mi>n</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">334</mml:mn></mml:mrow></mml:math></inline-formula>. </p></table-wrap-foot></table-wrap>
+
+</sec>
+<sec id="Ch1.S3.SS3">
+  <title>The impact of biocrust cover on soil erosion</title>
+      <p id="d1e3100">Results reveal that biocrusts strongly affect soil erosion. ROPs with biocrust cover below 10 % showed a mean sediment delivery of
+302 <inline-formula><mml:math id="M99" display="inline"><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mspace linebreak="nobreak" width="0.125em"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> and a mean runoff volume of 39 <inline-formula><mml:math id="M100" display="inline"><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mspace linebreak="nobreak" width="0.125em"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>, whereas ROPs with biocrust cover above 50 % showed a mean
+sediment delivery of 74 <inline-formula><mml:math id="M101" display="inline"><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mspace width="0.125em" linebreak="nobreak"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> and a mean runoff volume of 29 <inline-formula><mml:math id="M102" display="inline"><mml:mrow><mml:mi mathvariant="normal">L</mml:mi><mml:mspace width="0.125em" linebreak="nobreak"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>. Both biocrust and stone cover, as well as
+total soil surface cover (comprising both biocrust and stone cover; <inline-formula><mml:math id="M103" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">0.001</mml:mn></mml:mrow></mml:math></inline-formula>) negatively affected sediment delivery (Table 4). In
+addition, soil surface cover negatively affected surface runoff (<inline-formula><mml:math id="M104" display="inline"><mml:mrow><mml:mi>p</mml:mi><mml:mo>=</mml:mo><mml:mn mathvariant="normal">0.003</mml:mn></mml:mrow></mml:math></inline-formula>). However, only biocrust but not stone cover mediated the
+effect of runoff. Furthermore, crown cover, SOM and rainfall amount affected sediment delivery, whereas runoff was affected by crown
+cover and rainfall amount. ROPs with increased stone cover showed higher sediment delivery and surface runoff compared to those with
+increased biocrust cover (Fig. 3).</p>
+</sec>
+</sec>
+<sec id="Ch1.S4">
+  <title>Discussion</title>
+<sec id="Ch1.S4.SS1">
+  <title>Temporal development of biocrust cover</title>
+      <p id="d1e3208">Biocrusts were detected widely within the experiment and occupied a considerable area in the interspaces of the growing tree
+community. Thus, the first part of hypothesis 1, stating that biocrusts are able to coexist in mesic early successional subtropical
+forests, can be confirmed, as they successfully colonised the newly created habitats originating from the disturbance by forest
+clear-cutting and weeding (Bruelheide et al., 2014).  Although biocrusts have been mainly defined to occur in dryland regions (Weber
+et al., 2016), they can also appear as a transient feature in mesic environments after major singular or repeated disturbance events
+(Büdel et al., 2014; Fischer et al., 2014). In the current study, deforestation provided a local arid micro-environment, which
+initiated early biocrust development. At this young stage of forest development, biocrusts were able to coexist with upcoming tree
+saplings and formed a pioneer vegetation on the soil surface (Langhans et al., 2009), which provides the basis for the growth of other
+plants by the input of carbon and nitrogen (West, 1990; Evans and Johansen, 1999). Biocrusts are known to facilitate the succession of
+vascular plants to more advanced stages (Bowker, 2007), but tree growth and thus crown cover can also lead to an advancement in
+biocrust development, e.g. due to the protection from direct sunlight (Zhao et al., 2010; Tinya and Ódor, 2016). The
+bryophyte dominance of biocrusts in 2013 documented this development into a later and somewhat moister successional stage. Later-stage
+bryophytes have received comparatively little attention in forest understorey (Gilliam, 2007) and biocrust studies (Weber et al., 2016), and in Asia only 23 different species have been reported within biocrusts up to now (Seppelt et al., 2016). Thus, this study with 25
+recorded moss and liverwort species, most of them being new records within Asian biocrusts (Burkhard Büdel, personal
+communication, 2016), substantially increases the knowledge on biocrusts of this region.</p>
+      <p id="d1e3211">The extent of biocrusts has been strongly increasing since 2012, i.e. 3 years after tree replantation, and was still gaining coverage in the
+sixth year after the experimental set-up. Thus, the second part of hypothesis 1, stating that crust cover decreases with ongoing canopy
+closure, has to be rejected. Even if single trees were already up to 7.4 <inline-formula><mml:math id="M105" display="inline"><mml:mi mathvariant="normal">m</mml:mi></mml:math></inline-formula> high (Li et al., 2014) and LAI was up to 5.35 in
+2013, biocrusts still remained coexisting within the early-stage forest ecosystem. Furthermore, increasing crown cover and LAI seemed
+to foster the development of bryophyte-dominated biocrusts at this ecological stage. By the end of this study in summer 2016 (LAI up to
+6.18), there were indications that biocrust cover may start to be pushed back, as the first vascular plants appeared in between. This is in
+line with the existing literature, demonstrating that continuing tree growth will cause biocrust communities to adapt with an altered
+composition of moss and liverwort species (Eldridge and Tozer, 1997; Fenton and Frego, 2005; Goffinet and Shaw, 2009). It has been
+shown that bryophytes switch from species favouring sunny habitats to more shade-tolerant species (Zhao et al., 2010; Müller
+et al., 2016). In addition, there might also be a reduction in bryophyte diversity due to shady conditions, where only a smaller number
+of species could prevail. In later stages, biocrust cover will be replaced by vascular vegetation (in light forests) or buried under
+persisting leaf litter (under darker conditions). In this context, the ecological roles of biocrusts in succession models and plant
+restoration are of interest (Hawkes, 2004; Bowker, 2007). In particular, biocrust succession in temperate climates has received limited
+scientific attention (Read et al., 2016). Furthermore, there are several projects underway to establish successful restoration
+techniques in arid and semi-arid environments (Rosentreter et al., 2003; Bowker, 2007; Chiquoine et al., 2016; Condon and Pyke, 2016),
+which could be adapted to mesic environments. Nevertheless, it has to be stated that biocrust restoration might be dispensable in some
+mesic systems, as natural reestablishment appeared to be very fast in this study.</p>
+</sec>
+<sec id="Ch1.S4.SS2">
+  <title>The influence of vegetation, soil and terrain on biocrust cover</title>
+      <p id="d1e3227">In the current study, the development of biocrusts was influenced by vegetation and terrain but not by the three soil attributes
+investigated in this study. Thus, hypothesis 2, stating that the biocrust development is not only influenced by surrounding vegetation but also by soil and terrain, can only partly be confirmed for this ecosystem. As demonstrated above, high crown cover and LAI
+positively affected the development of biocrust cover in 2013. This increase in biocrust cover is likely caused by successional
+alteration of biocrusts towards bryophyte dominance. Mosses and liverworts profit from humid conditions and a higher protection from
+light compared to cyanobacteria- or lichen-dominated crusts (Ponzetti and McCune, 2001; Marsh et al., 2006; Williams et al., 2013). The
+successional development of biocrusts within the BEF China experiment was faster than reported by Zhao et al. (2010) for Chinese
+grasslands (Loess Plateau), who claimed biocrusts from a 3-year-old site were early successional and dominated by cyanobacteria. The
+recovery rate was also faster than described by Eldridge (1998) and Read et al. (2011) for semi-arid Australia, two of the very
+few studies on biocrust recovery under woodland. In the study presented here, the rapid change in biocrust community composition is
+mainly linked to the growth rates of surrounding trees in this subtropical forest. As functions of biocrusts, such as erosion
+reduction, are species-dependent, the rapid change in species composition might also lead to considerable variations in functional
+responses. Further studies are required to investigate species changeover times in different environments and particularly in disturbed
+mesic ecosystems.</p>
+      <p id="d1e3230">Furthermore, several terrain attributes affected biocrust cover. Slope was the most prominent of those factors, causing a considerable
+decline in biocrust cover with increasing slope. This finding was explained by their decreasing ability to fix themselves on the soil
+surface at high slope angles and thus their tendency to erode from the soil surface when large surface water flows occur during
+rainfall events (Chamizo et al., 2013; Bu et al., 2016). Thus, the surface-protecting effect of biocrusts decreases at steep plantation
+sites and during heavy monsoon rainfall events, which frequently occur in the broader research area in Jiangxi
+Province, PR China (Yang
+et al., 2013; Goebes et al., 2015). Moreover, microclimatic factors played a role in the development of biocrusts. Northness showed
+a positive impact on biocrust cover and indicated that slope orientations towards the incident sunlight directly influence the biocrust
+development. This was also observed in other studies in arid and semi-arid areas (Bowker et al., 2002; Zaady et al.,
+2007). Furthermore, biocrust development depended on the altitude, which probably also affects microclimatic conditions (Kutiel
+et al., 1998; Chamizo et al., 2016; Bu et al., 2016). Those microclimatic factors are additionally altered by the growing tree
+vegetation itself.</p>
+      <p id="d1e3233">Interestingly, SOM and pH did not affect biocrust cover in this study, whereas generally, underlying substrates are a main factor for
+bryophyte development (Spitale, 2017) and soil attributes are known to strongly influence biocrust cover (Bowker et al., 2016). In the
+experimental area, increased organic matter contents and acidic conditions have been determined (Scholten et al., 2017) which favour
+the development of bryophyte-dominated biocrusts (Eldridge and Tozer, 1997; Seppelt et al., 2016). Nevertheless, the variation between
+the research plots was small and apparently not large enough to cause prominent differences in biocrust development. Comparisons
+between forest plantations on different substrates would help to clarify the influence of soil attributes on biocrust development in
+those environments and to assess their effect in a broader environmental context (Spitale, 2017). Furthermore, a broader range of soil
+parameters should be included in future studies.</p>
+</sec>
+<sec id="Ch1.S4.SS3">
+  <title>The impact of biocrust cover on soil erosion</title>
+      <p id="d1e3242">Biocrust cover clearly mitigated interrill soil erosion in this early-stage
+ecosystem, and thus hypothesis 3 was confirmed. Sediment delivery was
+strongly reduced with increasing biocrust cover. For arid environments,
+Cantón et al. (2011) and Maestre et al. (2011), for example, showed that
+sediment delivery from soil surfaces covered with biocrusts decreases
+compared to bare soil surfaces with physical crusting (from 20 to <inline-formula><mml:math id="M106" display="inline"><mml:mrow><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">1</mml:mn></mml:mrow></mml:math></inline-formula> <inline-formula><mml:math id="M107" display="inline"><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mspace linebreak="nobreak" width="0.125em"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula> and 40 to <inline-formula><mml:math id="M108" display="inline"><mml:mrow><mml:mo>&lt;</mml:mo><mml:mn mathvariant="normal">5</mml:mn></mml:mrow></mml:math></inline-formula> <inline-formula><mml:math id="M109" display="inline"><mml:mrow><mml:mi mathvariant="normal">g</mml:mi><mml:mspace linebreak="nobreak" width="0.125em"/><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mrow><mml:mo>-</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:msup></mml:mrow></mml:math></inline-formula>, respectively), both
+studies using micro-scale runoff plots (0.25 <inline-formula><mml:math id="M110" display="inline"><mml:mrow><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mn mathvariant="normal">2</mml:mn></mml:msup></mml:mrow></mml:math></inline-formula>). Bu et al. (2015)
+and Zhao and Xu (2013) found similar erosion-reducing patterns for the
+subarid temperate Chinese Loess Plateau. The study presented here shows that
+biocrusts fulfil this key ecosystem service also within a particular mesic
+habitat, even if their biomass and soil penetration depth is low compared to
+trees. This functional role is due to the fact that biocrusts attenuate the
+impact of raindrops on the soil surface and greatly improve its resistance
+against sediment detachment (Eldridge and Greene, 1994; Goebes et al., 2014;
+Zhao et al., 2014). Moreover, they have the ability to glue loose soil
+particles together with polysaccharides extruded by cyanobacteria and green
+algae (Buscot and Varma, 2005). In the current study, protonemata and
+rhizoids of mosses and liverworts were observed to be most effective by
+weaving and thus fixing the first millimetres of the topsoil, as also
+described by Bowker et al. (2008). <italic>Pogonatum inflexum</italic> and
+<italic>Atrichum subserratum</italic>, for example, have shown positive effects on
+erosion control due to their sustained protonema system (present authors'
+personal observation, 2014). Furthermore, bryophytes increase the formation
+of humus, which in turn assists with binding primary particles into
+aggregates (Scheffer et al., 2010; Zhang et al., 2016).</p>
+      <p id="d1e3317">Whereas a partial stone cover did not decrease surface runoff in this study, bryophyte-dominated biocrusts positively influenced the
+hydrological processes in the topsoil layer regarding erosion control. Thus, they actively mitigated initial soil erosion compared to
+abiotic components such as stones and pebbles. Biocrusts have been frequently shown to influence hydrological processes such as surface
+runoff and infiltration rates (Cantón et al., 2011; Chamizo et al., 2012; Rodríguez-Caballero et al., 2013). Recently, Chamizo
+et al. (2016) showed that biocrusts decrease runoff generation on a larger scale (<inline-formula><mml:math id="M111" display="inline"><mml:mrow><mml:mo>&gt;</mml:mo><mml:mn mathvariant="normal">2</mml:mn></mml:mrow></mml:math></inline-formula> <inline-formula><mml:math id="M112" display="inline"><mml:mrow><mml:msup><mml:mi mathvariant="normal">m</mml:mi><mml:mn mathvariant="normal">2</mml:mn></mml:msup></mml:mrow></mml:math></inline-formula>), but the converse behaviour has also
+been found (Cantón et al., 2002; Maestre et al., 2011). Reducing effects on runoff are related to biocrusts species composition
+(Belnap and Lange, 2003), and later developmental biocrust stages with higher biomass levels provide more resistance to soil loss
+(Belnap and Büdel, 2016). Bryophyte-dominated crusts in particular have shown to enhance infiltration and reduce runoff due to their
+rhizome system, causing soil erosion rates to stay low (Warren, 2003; Yair et al., 2011).  Other field studies also revealed that later-stage biocrusts, containing both lichens and bryophytes, offer more protection against soil erosion than cyanobacterial crusts (Belnap
+and Gillette, 1997) as they provide a higher infiltration potential (Kidron, 1995). On the other hand, Drahorad et al. (2013) found an
+increase in water repellency and a decrease in water sorptivity with ongoing biocrust succession in a temperate forest glade, which
+could also strongly affect runoff and sediment transport on subtropical forest soil surfaces. Moreover, biocrusts dominated by
+bryophytes increase surface roughness and thus slow down runoff (Kidron et al., 1999; Rodríguez-Caballero et al., 2012). Finally,
+biocrusts also absorb water and provide a comparably high water storage capacity (Warren, 2003; Belnap, 2006). For example, <italic>Leucobryum juniperoideum</italic>, which was widely found in the study area, showed a high water absorbing capacity (present authors' personal observation, 2014). Thus, the
+observed rapid change in biocrust composition from cyanobacteria to bryophyte dominance improved soil erosion control in this forest
+environment. This effect should be considered for the replantation of forests in regions endangered by soil erosion.</p>
+</sec>
+</sec>
+<sec id="Ch1.S5" sec-type="conclusions">
+  <title>Conclusions</title>
+      <p id="d1e3352">This study investigated the development and distribution of biocrusts in an early-stage subtropical forest plantation as well as their
+impact on interrill soil erosion after human disturbance. The following conclusions were
+drawn:
+<list list-type="order"><list-item>
+      <p id="d1e3357">Biocrusts occurred widely in this mesic early successional forest ecosystem in subtropical China and were already dominated
+by bryophytes after 3 years of tree growth (25 bryophyte species classified). After 6 years of continuing canopy closure,
+biocrust cover was still increasing.  Further monitoring under closing tree canopy is of importance to detect changes in biocrust
+cover and species composition. As this study discusses a very particular subtropical forest environment, where trees were replanted
+after clear-cutting, results have to be viewed with this particular set-up in mind. Further studies on biocrust development in
+different disturbed forest ecosystems appear to be of high interest.</p></list-item><list-item>
+      <p id="d1e3361">The surrounding vegetation and underlying terrain affected biocrust development, whereas soil attributes did not have an
+effect on this small experimental scale. Besides high crown cover and LAI, the development of biocrusts was favoured by a low slope
+gradient and slope orientations towards the incident sunlight and altitude. Further research appears to be necessary to explain effects
+of terrain attributes such as aspect or elevation and effects of underlying soil and substrates.</p></list-item><list-item>
+      <p id="d1e3365">Soil surface cover of biocrusts largely affected soil erosion control in this early stage of the forest
+plantation. Bryophyte-dominated crusts showed erosion-reducing characteristics with regard to both sediment delivery and surface
+runoff. Furthermore, they more effectively decreased soil losses than abiotic soil surface covers. The erosion-reducing
+influence of bryophyte-dominated biocrusts and their rapid development from cyanobacteria-dominated crusts should be considered in
+management practices in early-stage forest plantations. Further research is required on functional mechanisms of different biocrust
+and bryophyte species and their impact on soil erosion processes.</p></list-item></list></p>
+</sec>
+
+      
+      </body>
+    <back><notes notes-type="dataavailability">
+
+      <p id="d1e3372">Data are publicly accessible and archived at the BEF China
+data portal (<uri>http://china.befdata.biow.uni-leipzig.de/datasets/376</uri>,
+<uri>http://china.befdata.biow.uni-leipzig.de/datasets/598</uri>, Seitz,
+2016a, b).</p>
+  </notes><notes notes-type="authorcontribution">
+
+      <p id="d1e3384">SS and TS designed the experiment, and SS, ZS, KK and CLW carried it out.  MN and KK classified biocrust types and
+determined bryophyte species. SS, PG and KS performed the statistical models. SS, XS and BW prepared the manuscript with
+contributions from all co-authors.</p>
+  </notes><notes notes-type="competinginterests">
+
+      <p id="d1e3390">The authors declare that they have no conflict of interest.</p>
+  </notes><notes notes-type="sistatement">
+
+      <p id="d1e3396">This article is part of the special issue “Biological soil crusts and their role in biogeochemical processes and
+cycling”. It is a result of the BIOCRUST3 conference, Moab, USA, 26 to 30 September 2016.</p>
+  </notes><ack><title>Acknowledgements</title><p id="d1e3402">We are grateful to the BEF China research group and especially to our students Mario Ahner, Milan Daus, Marlena Hall, Madeleine
+Janker, Paula Kersten, Vera Müller and Andrea Wadenstorfer for assistance in fieldwork. We also thank Alfons Schäfer-Verwimp
+for assistance in the determination of bryophytes, Karl Forchhammer for giving us first insights into the world of cyanobacteria and the
+participants of BioCrust3 for helpful comments on the results. We are indebted to five anonymous referees for a very constructive and helpful
+review.</p><p id="d1e3404">This work was funded by the German Research Foundation (DFG FOR 891/2 and 891/3). We also benefitted from travel grants from the
+Sino-German Centre for Research Promotion (GZ 699 and GZ 785) and from funding by the Max Planck Society. We acknowledge support by
+the Open Access Publishing Fund of the University of Tübingen.<?xmltex \hack{\newline}?><?xmltex \hack{\newline}?>
+Edited by: Kees Jan van Groenigen<?xmltex \hack{\newline}?>
+Reviewed by: five anonymous referees</p></ack><ref-list>
+    <title>References</title>
+
+      <ref id="bib1.bib1"><label>1</label><mixed-citation>Allen, C. D.: Biogeomorphology and biological soil crusts: a symbiotic research relationship, Geomorphologie, 16, 347–358,
+<ext-link xlink:href="https://doi.org/10.4000/geomorphologie.8071" ext-link-type="DOI">10.4000/geomorphologie.8071</ext-link>, 2010.</mixed-citation></ref>
+      <ref id="bib1.bib2"><label>2</label><mixed-citation> Barnes, B. V. and Spurr, S. H.: Forest Ecology, 4th ed., Wiley, New York, 774 pp., 1998.</mixed-citation></ref>
+      <ref id="bib1.bib3"><label>3</label><mixed-citation> Beck, E., Hartig, K., Roos, K., Preußig, M., and Nebel, M.: Permanent removal of the forest: construction of roads and
+power supply lines, in: Gradients in a Tropical Mountain Ecosystem of Ecuador, edited by: Beck, E., Ecological Studies, vol. 198,
+Springer, Berlin, 361–370, 2008.</mixed-citation></ref>
+      <ref id="bib1.bib4"><label>4</label><mixed-citation> Behrens, T., Schmidt, K., and Scholten, T.: An approach to removing uncertainities in nominal environmental covariates and
+soil class maps, in: Digital Soil Mapping with Limited Data, edited by: Hartemink, A. E., McBratney, A. B., Mendonça-Santos,
+Maria de Lourdes, Springer, Dordrecht, London, 213–224, 2008.</mixed-citation></ref>
+      <ref id="bib1.bib5"><label>5</label><mixed-citation>Belnap, J.: The potential roles of biological soil crusts in dryland hydrologic cycles, Hydrol. Process., 20, 3159–3178,
+<ext-link xlink:href="https://doi.org/10.1002/hyp.6325" ext-link-type="DOI">10.1002/hyp.6325</ext-link>, 2006.</mixed-citation></ref>
+      <ref id="bib1.bib6"><label>6</label><mixed-citation> Belnap, J. and Büdel, B.: Biological soil crusts as soil stabilizers, in: Biological Soil Crusts: an Organizing
+Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies, Analysis and Synthesis, vol. 226,
+Springer, Switzerland, 305–320, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib7"><label>7</label><mixed-citation>Belnap, J. and Gillette, D. A.: Disturbance of biological soil crusts: impacts on potential wind erodibility of sandy
+desert soils in southeastern Utah, Land Degrad. Dev., 8, 355–362,
+<ext-link xlink:href="https://doi.org/10.1002/(SICI)1099-145X(199712)8:4&lt;355::AID-LDR266&gt;3.0.CO;2-H" ext-link-type="DOI">10.1002/(SICI)1099-145X(199712)8:4&lt;355::AID-LDR266&gt;3.0.CO;2-H</ext-link>, 1997.</mixed-citation></ref>
+      <ref id="bib1.bib8"><label>8</label><mixed-citation> Belnap, J. and Lange, O. L. (Eds.): Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd
+printing, Springer, Berlin,   503 pp., 2003.</mixed-citation></ref>
+      <ref id="bib1.bib9"><label>9</label><mixed-citation> Belnap, J., Kaltenecker, J. H., Rosentreter, R., Williams, J., Leonard, S., and Eldridge, D. J.: Biological Soil Crusts:
+Ecology and Management, Technical Reference, 1730-2, United States Department of the Interior – Bureau of Land Management,
+US Department of the Interior - Bureau of Land Management, Denver, Colorado,
+2001.</mixed-citation></ref>
+      <ref id="bib1.bib10"><label>10</label><mixed-citation> Belnap, J., Büdel, B., and Lange, O. L.: Biological soil crusts: characteristics and distribution, in: Biological Soil
+Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin, 3–30,
+2003a.</mixed-citation></ref>
+      <ref id="bib1.bib11"><label>11</label><mixed-citation> Belnap, J., Prasse, R., and Harper, K. T.: Influence of biological soil crusts on soil environments and vascular plants,
+in: Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L.,
+Springer, Berlin, 281–300, 2003b.</mixed-citation></ref>
+      <ref id="bib1.bib12"><label>12</label><mixed-citation>Berkeley, A., Thomas, A. D., and Dougill, A. J.: Cyanobacterial soil crusts and woody shrub canopies in Kalahari
+rangelands, Afr. J. Ecol., 43, 137–145, <ext-link xlink:href="https://doi.org/10.1111/j.1365-2028.2005.00560.x" ext-link-type="DOI">10.1111/j.1365-2028.2005.00560.x</ext-link>, 2005.</mixed-citation></ref>
+      <ref id="bib1.bib13"><label>13</label><mixed-citation>Bischler-Causse, H.: <italic>Marchantia L.</italic>: The Asiatic and Oceanic Taxa, J. Cramer, Berlin, 317 pp., 1989.</mixed-citation></ref>
+      <ref id="bib1.bib14"><label>14</label><mixed-citation>Bormann, F. H., Likens, G. E., Fisher, D. W., and Pierce, R. S.: Nutrient loss accelerated by clear-cutting of a forest
+ecosystem, Science, 159, 882–884, <ext-link xlink:href="https://doi.org/10.1126/science.159.3817.882" ext-link-type="DOI">10.1126/science.159.3817.882</ext-link>, 1968.</mixed-citation></ref>
+      <ref id="bib1.bib15"><label>15</label><mixed-citation>Bowker, M. A.: Biological soil crust rehabilitation in theory and practice: an underexploited opportunity, Restor Ecol.,
+15, 13–23, <ext-link xlink:href="https://doi.org/10.1111/j.1526-100X.2006.00185.x" ext-link-type="DOI">10.1111/j.1526-100X.2006.00185.x</ext-link>, 2007.</mixed-citation></ref>
+      <ref id="bib1.bib16"><label>16</label><mixed-citation>Bowker, M. A., Reed, S. C., Belnap, J., and Phillips, S. L.: Temporal variation in community composition, pigmentation,
+and <inline-formula><mml:math id="M113" display="inline"><mml:mrow><mml:mi>F</mml:mi><mml:mo>(</mml:mo><mml:mi>v</mml:mi><mml:mo>)</mml:mo><mml:mo>/</mml:mo><mml:mi>F</mml:mi><mml:mo>(</mml:mo><mml:mi>m</mml:mi><mml:mo>)</mml:mo></mml:mrow></mml:math></inline-formula> of desert cyanobacterial soil crusts, Microb. Ecol., 43, 13–25, <ext-link xlink:href="https://doi.org/10.1007/s00248-001-1013-9" ext-link-type="DOI">10.1007/s00248-001-1013-9</ext-link>, 2002.</mixed-citation></ref>
+      <ref id="bib1.bib17"><label>17</label><mixed-citation>Bowker, M. A., Belnap, J., Bala Chaudhary, V., and Johnson, N. C.: Revisiting classic water erosion models in drylands:
+The strong impact of biological soil crusts, Soil Biol. Biochem., 40, 2309–2316, <ext-link xlink:href="https://doi.org/10.1016/j.soilbio.2008.05.008" ext-link-type="DOI">10.1016/j.soilbio.2008.05.008</ext-link>, 2008.</mixed-citation></ref>
+      <ref id="bib1.bib18"><label>18</label><mixed-citation> Bowker, M. A., Belnap, J., Büdel, B., Sannier, C., Pietrasiak, N., Eldridge, D. J., and Rivera-Aguilar, V.: Controls
+on distribution patterns of biological soil crusts at micro- to global scales, in: Biological Soil Crusts: an Organizing Principle in
+Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies, Analysis and Synthesis, vol. 226, Springer,
+Switzerland, 173–197, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib19"><label>19</label><mixed-citation>Bruelheide, H., Nadrowski, K., Assmann, T., Bauhus, J., Both, S., Buscot, F., Chen, X.-Y., Ding, B., Durka, W.,
+Erfmeier, A., Gutknecht, J. L. M., Guo, D., Guo, L.-D., Härdtle, W., He, J.-S., Klein, A.-M., Kühn, P., Liang, Y., Liu, X.,
+Michalski, S., Niklaus, P. A., Pei, K., Scherer-Lorenzen, M., Scholten, T., Schuldt, A., Seidler, G., Trogisch, S., Oheimb, G. von,
+Welk, E., Wirth, C., Wubet, T., Yang, X., Yu, M., Zhang, S., Zhou, H., Fischer, M., Ma, K., Schmid, B., and Muller-Landau, H.:
+Designing forest biodiversity experiments: general considerations illustrated by a new large experiment in subtropical China, Methods
+Ecol. Evol., 5, 74–89, <ext-link xlink:href="https://doi.org/10.1111/2041-210X.12126" ext-link-type="DOI">10.1111/2041-210X.12126</ext-link>, 2014.</mixed-citation></ref>
+      <ref id="bib1.bib20"><label>20</label><mixed-citation>Bu, C., Wu, S., Zhang, K., Yang, Y., and Gao, G.: Biological soil crusts: an eco-adaptive biological conservative
+mechanism and implications for ecological restoration, Plant Biosyst., 149, 364–373, <ext-link xlink:href="https://doi.org/10.1080/11263504.2013.819820" ext-link-type="DOI">10.1080/11263504.2013.819820</ext-link>, 2013.</mixed-citation></ref>
+      <ref id="bib1.bib21"><label>21</label><mixed-citation>Bu, C., Wu, S., Han, F., Yang, Y., and Meng, J.: The combined effects of moss-dominated biocrusts and vegetation on
+erosion and soil moisture and implications for disturbance on the Loess Plateau, China, PloS one, 10, e0127394,
+<ext-link xlink:href="https://doi.org/10.1371/journal.pone.0127394" ext-link-type="DOI">10.1371/journal.pone.0127394</ext-link>, 2015.</mixed-citation></ref>
+      <ref id="bib1.bib22"><label>22</label><mixed-citation>Bu, C., Zhang, P., Wang, C., Yang, Y., Shao, H.-B., and Wu, S.: Spatial distribution of biological soil crusts on the
+slope of the Chinese Loess Plateau based on canonical correspondence analysis, CATENA, 137, 373–381,
+<ext-link xlink:href="https://doi.org/10.1016/j.catena.2015.10.016" ext-link-type="DOI">10.1016/j.catena.2015.10.016</ext-link>, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib23"><label>23</label><mixed-citation> Büdel, B.: Biological soil crusts of Asia including the Don and Volga Region, in: Biological Soil Crusts: Structure,
+Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin, 87–94, 2003.</mixed-citation></ref>
+      <ref id="bib1.bib24"><label>24</label><mixed-citation> Büdel, B.: Microorganisms of biological crusts on soil surfaces, in: Microorganisms in Soils: Roles in Genesis and
+Functions, edited by: Buscot, F., Varma, A., Springer, New York, 307–324, 2005.</mixed-citation></ref>
+      <ref id="bib1.bib25"><label>25</label><mixed-citation>Büdel, B., Darienko, T., Deutschewitz, K., Dojani, S., Friedl, T., Mohr, K. I., Salisch, M., Reisser, W., and
+Weber, B.: Southern African biological soil crusts are ubiquitous and highly diverse in drylands, being restricted by rainfall
+frequency, Microb. Ecol., 57, 229–247, <ext-link xlink:href="https://doi.org/10.1007/s00248-008-9449-9" ext-link-type="DOI">10.1007/s00248-008-9449-9</ext-link>, 2009.</mixed-citation></ref>
+      <ref id="bib1.bib26"><label>26</label><mixed-citation>Büdel, B., Colesie, C., Green, T. G. A., Grube, M., Lazaro Suau, R., Loewen-Schneider, K., Maier, S., Peer, T.,
+Pintado, A., Raggio, J., Ruprecht, U., Sancho, L. G., Schroeter, B., Turk, R., Weber, B., Wedin, M., Westberg, M., Williams, L., and
+Zheng, L.: Improved appreciation of the functioning and importance of biological soil crusts in Europe: the Soil Crust International
+Project (SCIN), Biodivers. Conserv., 23, 1639–1658, <ext-link xlink:href="https://doi.org/10.1007/s10531-014-0645-2" ext-link-type="DOI">10.1007/s10531-014-0645-2</ext-link>, 2014.</mixed-citation></ref>
+      <ref id="bib1.bib27"><label>27</label><mixed-citation> Buscot, F. and Varma, A. (eds.): Microorganisms in Soils: Roles in Genesis and Functions, Springer, New York, 2005.</mixed-citation></ref>
+      <ref id="bib1.bib28"><label>28</label><mixed-citation>Cantón, Y., Domingo, F., Solé-Benet, A., and Puigdefábregas, J.: Influence of soil-surface types on the
+overall runoff of the Tabernas badlands (south-east Spain): field data and model approaches, Hydrol. Process., 16, 2621–2643,
+<ext-link xlink:href="https://doi.org/10.1002/hyp.1052" ext-link-type="DOI">10.1002/hyp.1052</ext-link>, 2002.</mixed-citation></ref>
+      <ref id="bib1.bib29"><label>29</label><mixed-citation>Cantón, Y., Solé-Benet, A., Vente, J. de, Boix-Fayos, C., Calvo-Cases, A., Asensio, C., and
+Puigdefábregas, J.: A review of runoff generation and soil erosion across scales in semiarid south-eastern Spain, J. Arid
+Environ., 75, 1254–1261, <ext-link xlink:href="https://doi.org/10.1016/j.jaridenv.2011.03.004" ext-link-type="DOI">10.1016/j.jaridenv.2011.03.004</ext-link>, 2011.</mixed-citation></ref>
+      <ref id="bib1.bib30"><label>30</label><mixed-citation>Chamizo, S., Cantón, Y., Rodríguez-Caballero, E., Domingo, F., and Escudero, A.: Runoff at contrasting scales in
+a semiarid ecosystem: A complex balance between biological soil crust features and rainfall characteristics, J. Hydrol., 452–453,
+130–138, <ext-link xlink:href="https://doi.org/10.1016/j.jhydrol.2012.05.045" ext-link-type="DOI">10.1016/j.jhydrol.2012.05.045</ext-link>, 2012.</mixed-citation></ref>
+      <ref id="bib1.bib31"><label>31</label><mixed-citation>Chamizo, S., Cantón, Y., Domingo, F., and Belnap, J.: Evaporative losses from soils covered by physical and different
+types of biological soil crusts, Hydrol. Process., 27, 324–332, <ext-link xlink:href="https://doi.org/10.1002/hyp.8421" ext-link-type="DOI">10.1002/hyp.8421</ext-link>, 2013.</mixed-citation></ref>
+      <ref id="bib1.bib32"><label>32</label><mixed-citation> Chamizo, S., Belnap, J., Eldridge, D. J., Cantón, Y., and Malam Issa, O.: The role of biocrusts in arid land
+hydrology, in: Biological Soil Crusts: An Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J.,
+Ecological Studies, Analysis and Synthesis, vol. 226, Springer, Switzerland, 321–346, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib33"><label>33</label><mixed-citation> Chiquoine, L. P., Abella, S. R., and Bowker, M. A.: Rapidly restoring biological soil crusts and ecosystem functions in
+a severely disturbed desert ecosystem, Ecol. Appl., 26, 1260–1272, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib34"><label>34</label><mixed-citation> Colesie, C., Felde, V. J. M., and Büdel, B.: Composition and macrostructure of biological soil crusts, in: Biological
+Soil Crusts: An Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies, Analysis and
+Synthesis, vol. 226, Springer, Switzerland, 159–172, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib35"><label>35</label><mixed-citation>Condon, L. A. and Pyke, D. A.: Filling the interspace-restoring arid land mosses: source populations, organic matter, and
+overwintering govern success, Ecol. Evol., 6, 7623–7632, <ext-link xlink:href="https://doi.org/10.1002/ece3.2448" ext-link-type="DOI">10.1002/ece3.2448</ext-link>, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib36"><label>36</label><mixed-citation>Dojani, S., Büdel, B., Deutschewitz, K., and Weber, B.: Rapid succession of Biological Soil Crusts after experimental
+disturbance in the Succulent Karoo, South Africa, Appl. Soil Ecol., 48, 263–269, <ext-link xlink:href="https://doi.org/10.1016/j.apsoil.2011.04.013" ext-link-type="DOI">10.1016/j.apsoil.2011.04.013</ext-link>, 2011.</mixed-citation></ref>
+      <ref id="bib1.bib37"><label>37</label><mixed-citation>Drahorad, S., Steckenmesser, D., Felix-Henningsen, P., Lichner, Ĺ., and Rodný, M.: Ongoing succession of
+biological soil crusts increases water repellency – a case study on Arenosols in Sekule, Slovakia, Biologia, 68, 309,
+<ext-link xlink:href="https://doi.org/10.2478/s11756-013-0247-6" ext-link-type="DOI">10.2478/s11756-013-0247-6</ext-link>, 2013.</mixed-citation></ref>
+      <ref id="bib1.bib38"><label>38</label><mixed-citation> Eldridge, D. J.: Soil crust lichens and mosses on calcrete-dominant soils at Maralinga in arid South Australia,
+J. Adelaide Botanic Gardens, 18, 9–24, 1998.</mixed-citation></ref>
+      <ref id="bib1.bib39"><label>39</label><mixed-citation>Eldridge, D. J.: Distribution and floristics of moss- and lichen-dominated soil crusts in a patterned Callitris
+glaucophylla woodland in eastern Australia, Acta Oecol., 20, 159–170, <ext-link xlink:href="https://doi.org/10.1016/S1146-609X(99)80029-0" ext-link-type="DOI">10.1016/S1146-609X(99)80029-0</ext-link>, 1999.</mixed-citation></ref>
+      <ref id="bib1.bib40"><label>40</label><mixed-citation>Eldridge, D. J. and Greene, R. S. B.: Assessment of sediment yield by splash erosion on a semi-arid soil with varying
+cryptogam cover, J. Arid Environ., 26, 221–232, <ext-link xlink:href="https://doi.org/10.1006/jare.1994.1025" ext-link-type="DOI">10.1006/jare.1994.1025</ext-link>, 1994.</mixed-citation></ref>
+      <ref id="bib1.bib41"><label>41</label><mixed-citation>Eldridge, D. J. and Tozer, M. E.: Environmental factors relating to the distribution of terricolous bryophytes and lichens
+in semi-arid eastern Australia, Bryologist, 100, 28, <ext-link xlink:href="https://doi.org/10.2307/3244384" ext-link-type="DOI">10.2307/3244384</ext-link>, 1997.</mixed-citation></ref>
+      <ref id="bib1.bib42"><label>42</label><mixed-citation>Evans, R. D. and Johansen, J. R.: Microbiotic crusts and ecosystem processes, Crit. Rev. Plant Sci., 18, 183–225,
+<ext-link xlink:href="https://doi.org/10.1080/07352689991309199" ext-link-type="DOI">10.1080/07352689991309199</ext-link>, 1999.</mixed-citation></ref>
+      <ref id="bib1.bib43"><label>43</label><mixed-citation>Fenton, N. J. and Frego, K. A.: Bryophyte (moss and liverwort) conservation under remnant canopy in managed forests,
+Biol. Conserv., 122, 417–430, <ext-link xlink:href="https://doi.org/10.1016/j.biocon.2004.09.003" ext-link-type="DOI">10.1016/j.biocon.2004.09.003</ext-link>, 2005.</mixed-citation></ref>
+      <ref id="bib1.bib44"><label>44</label><mixed-citation>Fischer, T., Gypser, S., Subbotina, M., and Veste, M.: Synergic hydraulic and nutritional feedback mechanisms control
+surface patchiness of biological soil crusts on tertiary sands at a post-mining site, J. Hydrol. Hydromech., 62, 293–302, <ext-link xlink:href="https://doi.org/10.2478/johh-2014-0038" ext-link-type="DOI">10.2478/johh-2014-0038</ext-link>, 2014.</mixed-citation></ref>
+      <ref id="bib1.bib45"><label>45</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 01: <italic>Sphagnaceae – Leucobryaceae</italic>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 273 pp., 1999.</mixed-citation></ref>
+      <ref id="bib1.bib46"><label>46</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 02: <italic>Fissidentaceae – Phytomitriaceae</italic>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 283 pp., 2001.</mixed-citation></ref>
+      <ref id="bib1.bib47"><label>47</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 06: <italic>Hookeriaceae – Thuidiaceae</italic>, English Version,
+Science Press and Missouri Botanical Garden, Beijing, St. Louis, 2002.</mixed-citation></ref>
+      <ref id="bib1.bib48"><label>48</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 03: <italic>Grimmiaceae – Tetraphidaceae</italic>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 141 pp., 2003.</mixed-citation></ref>
+      <ref id="bib1.bib49"><label>49</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 08: <italic>Sematophyllaceae – Polytrichaceae</italic>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 2005.</mixed-citation></ref>
+      <ref id="bib1.bib50"><label>50</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 04: <italic>Bryaceae – Timmiaceae</italic>, English Version,
+Science Press and Missouri Botanical Garden, Beijing, St. Louis, 211 pp., 2007.</mixed-citation></ref>
+      <ref id="bib1.bib51"><label>51</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 07: <italic>Amblystegiaceae – Plagiotheciaceae</italic>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 258 pp., 2008.</mixed-citation></ref>
+      <ref id="bib1.bib52"><label>52</label><mixed-citation>Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 05: <italic>Erpodiaceae – Climaciaceae</italic>, English Version,
+Science Press and Missouri Botanical Garden, Beijing, St. Louis, 2011.</mixed-citation></ref>
+      <ref id="bib1.bib53"><label>53</label><mixed-citation> Garcia-Pichel, F. and Belnap, J.: Small-scale environments and distribution of biological soil crusts, in: Biological Soil
+Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin,
+193–201, 2003.</mixed-citation></ref>
+      <ref id="bib1.bib54"><label>54</label><mixed-citation> George, D. B., Davidson, D. W., Schliep, K. C., and Patrell-Kim, L. J.: Microtopography of microbiotic crusts on the
+Colorado Plateau, and distribution of component organisms, West. N. Am. Naturalist, 60, 343–354, 2000.</mixed-citation></ref>
+      <ref id="bib1.bib55"><label>55</label><mixed-citation>Gilliam, F. S.: The ecological significance of the herbaceous layer in temperate forest ecosystems, BioScience, 57, 845,
+<ext-link xlink:href="https://doi.org/10.1641/B571007" ext-link-type="DOI">10.1641/B571007</ext-link>, 2007.</mixed-citation></ref>
+      <ref id="bib1.bib56"><label>56</label><mixed-citation>Goebes, P., Seitz, S., Geißler, C., Lassu, T., Peters, P., Seeger, M., Nadrowski, K., and Scholten, T.: Momentum or
+kinetic energy – How do substrate properties influence the calculation of rainfall erosivity?, J. Hydrol., 517, 310–316,
+<ext-link xlink:href="https://doi.org/10.1016/j.jhydrol.2014.05.031" ext-link-type="DOI">10.1016/j.jhydrol.2014.05.031</ext-link>, 2014.</mixed-citation></ref>
+      <ref id="bib1.bib57"><label>57</label><mixed-citation>Goebes, P., Seitz, S., Kühn, P., Li, Y., Niklaus, P. A., Oheimb, G. von, and Scholten, T.: Throughfall kinetic energy
+in young subtropical forests: Investigation on tree species richness effects and spatial variability, Agr. Forest Meteorol., 213,
+148–159, <ext-link xlink:href="https://doi.org/10.1016/j.agrformet.2015.06.019" ext-link-type="DOI">10.1016/j.agrformet.2015.06.019</ext-link>, 2015.</mixed-citation></ref>
+      <ref id="bib1.bib58"><label>58</label><mixed-citation> Goffinet, B. and Shaw, A. J.: Bryophyte Biology, 2nd ed., Cambridge University Press, Cambridge, Chapt. XIV, p. 565, 2009.</mixed-citation></ref>
+      <ref id="bib1.bib59"><label>59</label><mixed-citation>Harper, K. T. and Belnap, J.: The influence of biological soil crusts on mineral uptake by associated vascular plants,
+J. Arid Environ., 47, 347–357, <ext-link xlink:href="https://doi.org/10.1006/jare.2000.0713" ext-link-type="DOI">10.1006/jare.2000.0713</ext-link>, 2001.</mixed-citation></ref>
+      <ref id="bib1.bib60"><label>60</label><mixed-citation>Hawkes, C. V.: Effects of biological soil crusts on seed germination of four endangered herbs in a xeric Florida shrubland
+during drought, Plant Ecol., 170, 121–134, <ext-link xlink:href="https://doi.org/10.1023/B:VEGE.0000019035.56245.91" ext-link-type="DOI">10.1023/B:VEGE.0000019035.56245.91</ext-link>, 2004.</mixed-citation></ref>
+      <ref id="bib1.bib61"><label>61</label><mixed-citation> Hothorn, T. and Hornik, K.: exactRankTests: Exact Distributions for Rank and Permutation Tests,     2015.</mixed-citation></ref>
+      <ref id="bib1.bib62"><label>62</label><mixed-citation>Keenan, R. J. and Kimmins, J. P.: The ecological effects of clear-cutting, Environ. Rev., 1, 121–144,
+<ext-link xlink:href="https://doi.org/10.1139/a93-010" ext-link-type="DOI">10.1139/a93-010</ext-link>, 1993.</mixed-citation></ref>
+      <ref id="bib1.bib63"><label>63</label><mixed-citation> Kidron, G. J.: The impact of microbial crust upon rainfall–runoff-sediment yield relationships on longitudinal dune
+slopes, Nizzana, western Negev Dessert, Israel, PhD Thesis, Hebrew University of Jerusalem, Jerusalem, 1995.</mixed-citation></ref>
+      <ref id="bib1.bib64"><label>64</label><mixed-citation>Kidron, G. J., Vonshak, A., and Abeliovich, A.: Microbiotic crusts as biomarkers for surface stability and wetness
+duration in the Negev Desert, Earth Surf. Proc. Land., 34, 1594–1604, <ext-link xlink:href="https://doi.org/10.1002/esp.1843" ext-link-type="DOI">10.1002/esp.1843</ext-link>, 2009.</mixed-citation></ref>
+      <ref id="bib1.bib65"><label>65</label><mixed-citation>Kidron, G. J., Yaalon, D. H., and Vonshak, A.: Two causes for runoff initiation on microbiotic crusts: hydrophobicity and
+pore clogging, Soil Sci., 164, 18–27, <ext-link xlink:href="https://doi.org/10.1097/00010694-199901000-00004" ext-link-type="DOI">10.1097/00010694-199901000-00004</ext-link>, 1999.</mixed-citation></ref>
+      <ref id="bib1.bib66"><label>66</label><mixed-citation> Kleiner, E. F. and Harper, K. T.: Soil properties in relation to cryptogamic groundcover in Canyonlands National Park,
+J. Range Manage. Archives, 30, 202–205, 1977.</mixed-citation></ref>
+      <ref id="bib1.bib67"><label>67</label><mixed-citation>Kutiel, P., Lavee, H., and Ackermann, O.: Spatial distribution of soil surface coverage on north and south facing
+hillslopes along a Mediterranean to extreme arid climatic gradient, Geomorphology, 23, 245–256, <ext-link xlink:href="https://doi.org/10.1016/S0169-555X(98)00007-5" ext-link-type="DOI">10.1016/S0169-555X(98)00007-5</ext-link>,
+1998.</mixed-citation></ref>
+      <ref id="bib1.bib68"><label>68</label><mixed-citation> Kuznetsova, A., Brockhoff, P. B., and Christensen, R. H.: lmerTest: Tests in Linear Mixed Effects Models,   2014.</mixed-citation></ref>
+      <ref id="bib1.bib69"><label>69</label><mixed-citation>Langhans, T. M., Storm, C., and Schwabe, A.: Biological soil crusts and their microenvironment: Impact on emergence,
+survival and establishment of seedlings, flora – morphology, distribution, Funct. Ecol. Plants, 204, 157–168, <ext-link xlink:href="https://doi.org/10.1016/j.flora.2008.01.001" ext-link-type="DOI">10.1016/j.flora.2008.01.001</ext-link>, 2009.</mixed-citation></ref>
+      <ref id="bib1.bib70"><label>70</label><mixed-citation>Li, Y., Härdtle, W., Bruelheide, H., Nadrowski, K., Scholten, T., von Wehrden, H., and Oheimb, G. von: Site and
+neighborhood effects on growth of tree saplings in subtropical plantations (China), Forest Ecol. Manag., 327, 118–127,
+<ext-link xlink:href="https://doi.org/10.1016/j.foreco.2014.04.039" ext-link-type="DOI">10.1016/j.foreco.2014.04.039</ext-link>, 2014.</mixed-citation></ref>
+      <ref id="bib1.bib71"><label>71</label><mixed-citation>Maestre, F. T., Bowker, M. A., Cantón, Y., Castillo-Monroy, A. P., Cortina, J., Escolar, C., Escudero, A., Lazaro
+Suau, R., and Martínez, I.: Ecology and functional roles of biological soil crusts in semi-arid ecosystems of Spain, J. Arid
+Environ., 75, 1282–1291, <ext-link xlink:href="https://doi.org/10.1016/j.jaridenv.2010.12.008" ext-link-type="DOI">10.1016/j.jaridenv.2010.12.008</ext-link>, 2011.</mixed-citation></ref>
+      <ref id="bib1.bib72"><label>72</label><mixed-citation>Malam Issa, O., Trichet, J., Défarge, C., Couté, A., and Valentin, C.: Morphology and microstructure of
+microbiotic soil crusts on a tiger bush sequence (Niger, Sahel), CATENA, 37, 175–196, <ext-link xlink:href="https://doi.org/10.1016/S0341-8162(99)00052-1" ext-link-type="DOI">10.1016/S0341-8162(99)00052-1</ext-link>, 1999.</mixed-citation></ref>
+      <ref id="bib1.bib73"><label>73</label><mixed-citation>Malam Issa, O., Le Bissonnais, Y., Défarge, C., and Trichet, J.: Role of a cyanobacterial cover on structural
+stability of sandy soils in the Sahelian part of western Niger, Geoderma, 101, 15–30, <ext-link xlink:href="https://doi.org/10.1016/S0016-7061(00)00093-8" ext-link-type="DOI">10.1016/S0016-7061(00)00093-8</ext-link>, 2001.</mixed-citation></ref>
+      <ref id="bib1.bib74"><label>74</label><mixed-citation>Malam Issa, O., Défarge, C., Le Bissonnais, Y., Marin, B., Duval, O., Bruand, A., D'Acqui, L. P., Nordenberg, S., and
+Annerman, M.: Effects of the inoculation of cyanobacteria on the microstructure and the structural stability of a tropical soil,
+Plant Soil, 290, 209–219, <ext-link xlink:href="https://doi.org/10.1007/s11104-006-9153-9" ext-link-type="DOI">10.1007/s11104-006-9153-9</ext-link>, 2007.</mixed-citation></ref>
+      <ref id="bib1.bib75"><label>75</label><mixed-citation>Marsh, J., Nouvet, S., Sanborn, P., and Coxson, D.: Composition and function of biological soil crust communities along
+topographic gradients in grasslands of central interior British Columbia (Chilcotin) and southwestern Yukon (Kluane), Can. J. Bot.,
+84, 717–736, <ext-link xlink:href="https://doi.org/10.1139/b06-026" ext-link-type="DOI">10.1139/b06-026</ext-link>, 2006.</mixed-citation></ref>
+      <ref id="bib1.bib76"><label>76</label><mixed-citation>Müller, S. J., Gütle, D. D., Jacquot, J.-P., and Reski, R.: Can mosses serve as model organisms for forest
+research?, Ann. For. Sci., 73, 135–146, <ext-link xlink:href="https://doi.org/10.1007/s13595-015-0468-7" ext-link-type="DOI">10.1007/s13595-015-0468-7</ext-link>, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib77"><label>77</label><mixed-citation>Ponzetti, J. M. and McCune, B. P.: Biotic soil crusts of Oregon's Shrub Steppe: community composition in relation to soil
+chemistry, climate, and livestock activity, Bryologist, 104, 212–225, <ext-link xlink:href="https://doi.org/10.1639/0007-2745(2001)104[0212:BSCOOS]2.0.CO;2" ext-link-type="DOI">10.1639/0007-2745(2001)104[0212:BSCOOS]2.0.CO;2</ext-link>,
+2001.</mixed-citation></ref>
+      <ref id="bib1.bib78"><label>78</label><mixed-citation>Pribyl, D. W.: A critical review of the conventional SOC to SOM conversion factor, Geoderma, 156, 75–83,
+<ext-link xlink:href="https://doi.org/10.1016/j.geoderma.2010.02.003" ext-link-type="DOI">10.1016/j.geoderma.2010.02.003</ext-link>, 2010.</mixed-citation></ref>
+      <ref id="bib1.bib79"><label>79</label><mixed-citation> R Core Team: R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing, Vienna,
+Austria, 2014.</mixed-citation></ref>
+      <ref id="bib1.bib80"><label>80</label><mixed-citation>Read, C. F., Duncan, D. H., Vesk, P. A., and Elith, J.: Surprisingly fast recovery of biological soil crusts following
+livestock removal in southern Australia, J. Veg. Sci., 22, 905–916, <ext-link xlink:href="https://doi.org/10.1111/j.1654-1103.2011.01296.x" ext-link-type="DOI">10.1111/j.1654-1103.2011.01296.x</ext-link>, 2011.</mixed-citation></ref>
+      <ref id="bib1.bib81"><label>81</label><mixed-citation>Read, C. F., Elith, J., Vesk, P. A., and Pugnaire, F.: Testing a model of biological soil crust succession, J. Veg. Sci.,
+27, 176–186, <ext-link xlink:href="https://doi.org/10.1111/jvs.12332" ext-link-type="DOI">10.1111/jvs.12332</ext-link>, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib82"><label>82</label><mixed-citation> Riley, S. J., Degloria, S. D., and Elliot, R.: A Terrain Ruggedness Index that quantifies topographic heterogeneity,
+Intermountain J. Sci., 5, 23–27, 1999.</mixed-citation></ref>
+      <ref id="bib1.bib83"><label>83</label><mixed-citation> Roberts, D. W.: Ordination on the basis of fuzzy set theory, Vegetatio, 66, 123–131, 1986.</mixed-citation></ref>
+      <ref id="bib1.bib84"><label>84</label><mixed-citation>Rodríguez-Caballero, E., Cantón, Y., Chamizo, S., Afana, A., and Solé-Benet, A.: Effects of biological soil
+crusts on surface roughness and implications for runoff and erosion, Geomorphology, 145–146, 81–89,
+<ext-link xlink:href="https://doi.org/10.1016/j.geomorph.2011.12.042" ext-link-type="DOI">10.1016/j.geomorph.2011.12.042</ext-link>, 2012.</mixed-citation></ref>
+      <ref id="bib1.bib85"><label>85</label><mixed-citation>Rodríguez-Caballero, E., Cantón, Y., Chamizo, S., Lazaro Suau, R., and Escudero, A.: Soil loss and runoff in
+semiarid ecosystems: a complex interaction between biological soil crusts, micro-topography, and hydrological drivers, Ecosystems,
+16, 529–546, <ext-link xlink:href="https://doi.org/10.1007/s10021-012-9626-z" ext-link-type="DOI">10.1007/s10021-012-9626-z</ext-link>, 2013.</mixed-citation></ref>
+      <ref id="bib1.bib86"><label>86</label><mixed-citation> Rosentreter, R., Eldridge, D. J., and Kaltenecker, J. H.: Monitoring and management of biological soil crusts, in:
+Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L.,
+Springer, Berlin, 457–468, 2003.</mixed-citation></ref>
+      <ref id="bib1.bib87"><label>87</label><mixed-citation> Scheffer, F., Schachtschabel, P., and Blume, H.-P.: Lehrbuch der Bodenkunde, 16th ed., Spektrum Verlag, Heidelberg,
+Berlin, 569 pp., 2010.</mixed-citation></ref>
+      <ref id="bib1.bib88"><label>88</label><mixed-citation>Scholten, T., Goebes, P., Kühn, P., Seitz, S., Assmann, T., Bauhus, J., Bruelheide, H., Buscot, F., Erfmeier, A.,
+Fischer, M., Härdtle, W., He, J.-S., Ma, K., Niklaus, P. A., Scherer-Lorenzen, M., Schmid, B., Shi, X., Song, Z., Oheimb, G. von,
+Wirth, C., Wubet, T., and Schmidt, K.: On the combined effect of soil fertility and topography on tree growth in subtropical forest
+ecosystems – a study from SE China, J. Plant Ecol.-UK, 10, 111–127, <ext-link xlink:href="https://doi.org/10.1093/jpe/rtw065" ext-link-type="DOI">10.1093/jpe/rtw065</ext-link>, 2017.</mixed-citation></ref>
+      <ref id="bib1.bib89"><label>89</label><mixed-citation>Seitz, S.: Main Experiment: Runoff Plots in the Main Experiment – Data, BEF
+China data portal, available at:
+<uri>http://china.befdata.biow.uni-leipzig.de/datasets/376</uri> (last access:
+18 December 2017), 2016a.</mixed-citation></ref>
+      <ref id="bib1.bib90"><label>90</label><mixed-citation>Seitz, S.: Main Experiment: Cover of Biological Soil Crusts in Runoff Plots
+(2011–2015), BEF China data portal, available at:
+<uri>http://china.befdata.biow.uni-leipzig.de/datasets/598</uri> (last access:
+18 December 2017), 2016b.</mixed-citation></ref>
+      <ref id="bib1.bib91"><label>91</label><mixed-citation>Seitz, S., Goebes, P., Zumstein, P., Assmann, T., Kühn, P., Niklaus, P. A., Schuldt, A., and Scholten, T.: The
+influence of leaf litter diversity and soil fauna on initial soil erosion in subtropical forests, Earth Surf. Proc. Land., 40,
+1439–1447, <ext-link xlink:href="https://doi.org/10.1002/esp.3726" ext-link-type="DOI">10.1002/esp.3726</ext-link>, 2015.</mixed-citation></ref>
+      <ref id="bib1.bib92"><label>92</label><mixed-citation>Seitz, S., Goebes, P., Song, Z., Bruelheide, H., Härdtle, W., Kühn, P., Li, Y., and Scholten, T.: Tree species and
+functional traits but not species richness affect interrill erosion processes in young subtropical forests, Soil, 2, 49–61,
+<ext-link xlink:href="https://doi.org/10.5194/soil-2-49-2016" ext-link-type="DOI">10.5194/soil-2-49-2016</ext-link>, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib93"><label>93</label><mixed-citation> Seppelt, R. D., Downing, A. J., Deane-Coe, K. K., Zhang, Y., and Zhang, J.: Bryophytes Within Biological Soil Crusts, in:
+Biological Soil Crusts: an Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies,
+Analysis and Synthesis, vol. 226, Springer, Switzerland, 101–120, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib94"><label>94</label><mixed-citation>Söderström, L., Hagborg, A., Konrat, M. von, Bartholomew-Began, S., Bell, D., Briscoe, L., Brown, E.,
+Cargill, D. C., Costa, D. P., Crandall-Stotler, B. J., Cooper, E. D., Dauphin, G., Engel, J. J., Feldberg, K., Glenny, D.,
+Gradstein, S. R., He, X., Heinrichs, J., Hentschel, J., Ilkiu-Borges, A. L., Katagiri, T., Konstantinova, N. A., Larraín, J.,
+Long, D. G., Nebel, M., Pócs, T., Puche, F., Reiner-Drehwald, E., Renner, M. A. M., Sass-Gyarmati, A., Schäfer-Verwimp, A.,
+Moragues, José Gabriel Segarra, Stotler, R. E., Sukkharak, P., Thiers, B. M., Uribe, J., Váňa, J., Villarreal, J. C.,
+Wigginton, M., Zhang, L., and Zhu, R.-L.: World checklist of hornworts and liverworts, PhytoKeys, 59, 1–828, <ext-link xlink:href="https://doi.org/10.3897/phytokeys.59.6261" ext-link-type="DOI">10.3897/phytokeys.59.6261</ext-link>, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib95"><label>95</label><mixed-citation>Spitale, D.: Forest and substrate type drive bryophyte distribution in the Alps, J. Bryol., 39, 128–140,
+<ext-link xlink:href="https://doi.org/10.1080/03736687.2016.1274090" ext-link-type="DOI">10.1080/03736687.2016.1274090</ext-link>, 2017.</mixed-citation></ref>
+      <ref id="bib1.bib96"><label>96</label><mixed-citation>Su, Y.-G., Li, X.-R., Cheng, Y.-W., Tan, H.-J., and Jia, R.-L.: Effects of biological soil crusts on emergence of desert
+vascular plants in North China, Plant Ecol., 191, 11–19, <ext-link xlink:href="https://doi.org/10.1007/s11258-006-9210-8" ext-link-type="DOI">10.1007/s11258-006-9210-8</ext-link>, 2007.</mixed-citation></ref>
+      <ref id="bib1.bib97"><label>97</label><mixed-citation>Tinya, F. and Ódor, P.: Congruence of the spatial pattern of light and understory vegetation in an old-growth,
+temperate mixed forest, Forest Ecol. Manag., 381, 84–92, <ext-link xlink:href="https://doi.org/10.1016/j.foreco.2016.09.027" ext-link-type="DOI">10.1016/j.foreco.2016.09.027</ext-link>, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib98"><label>98</label><mixed-citation>Trogisch, S., Schuldt, A., Bauhus, J., Blum, J. A., Both, S., Buscot, F., Castro-Izaguirre, N., Chesters, D., Durka, W.,
+Eichenberg, D., Erfmeier, A., Fischer, M., Geißler, C., Germany, M. S., Goebes, P., Gutknecht, J. L. M., Hahn, C. Z., Haider, S.,
+Härdtle, W., He, J.-S., Hector, A., Hönig, L., Huang, Y., Klein, A.-M., Kühn, P., Kunz, M., Leppert, K. N., Li, Y.,
+Liu, X., Niklaus, P. A., Pei, Z., Pietsch, K. A., Prinz, R., Proß, T., Scherer-Lorenzen, M., Schmidt, K., Scholten, T.,
+Seitz, S., Song, Z., Staab, M., Oheimb, G. von, Weißbecker, C., Welk, E., Wirth, C., Wubet, T., Yang, B., Yang, X., Zhu, C.-D.,
+Schmid, B., Ma, K., and Bruelheide, H.: Toward a methodical framework for comprehensively assessing forest multifunctionality,
+Ecol. Evol., 49, 277, <ext-link xlink:href="https://doi.org/10.1002/ece3.3488" ext-link-type="DOI">10.1002/ece3.3488</ext-link>, 2017.</mixed-citation></ref>
+      <ref id="bib1.bib99"><label>99</label><mixed-citation> Ullmann, I. and Büdel, B.: Ecological determinants of species composition of biological soil crusts on a landscape
+scale, in: Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J.,
+Lange, O. L., Springer, Berlin, 203–213, 2003.</mixed-citation></ref>
+      <ref id="bib1.bib100"><label>100</label><mixed-citation> Warren, S. D.: Synopsis: Influence of biological soil crusts on arid land hydrology and soil stability, in: Biological
+Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin,
+349–360, 2003.</mixed-citation></ref>
+      <ref id="bib1.bib101"><label>101</label><mixed-citation> Weber, B., Büdel, B., and Belnap, J. (eds.): Biological soil crusts: an organizing principle in drylands, in:
+Ecological Studies, Analysis and Synthesis, vol. 226, Springer, Switzerland, 1 online resource (ix), 603, 2016.</mixed-citation></ref>
+      <ref id="bib1.bib102"><label>102</label><mixed-citation>West, N. E.: Structure and Function of Microphytic Soil Crusts in Wildland Ecosystems of Arid to Semi-arid Regions,
+Adv. Ecol. Res., 20, 179–223, <ext-link xlink:href="https://doi.org/10.1016/S0065-2504(08)60055-0" ext-link-type="DOI">10.1016/S0065-2504(08)60055-0</ext-link>, 1990.</mixed-citation></ref>
+      <ref id="bib1.bib103"><label>103</label><mixed-citation> Wickham, H.: Ggplot2: Elegant Graphics for Data Analysis, Use R!, Springer, Dordrecht, New York, 1 online resource
+(viii), 212, 2009.</mixed-citation></ref>
+      <ref id="bib1.bib104"><label>104</label><mixed-citation>Williams, A. J., Buck, B. J., Soukup, D. A., and Merkler, D. J.: Geomorphic controls on biological soil crust
+distribution: A conceptual model from the Mojave Desert (USA), Geomorphology, 195, 99–109, <ext-link xlink:href="https://doi.org/10.1016/j.geomorph.2013.04.031" ext-link-type="DOI">10.1016/j.geomorph.2013.04.031</ext-link>,
+2013.</mixed-citation></ref>
+      <ref id="bib1.bib105"><label>105</label><mixed-citation>Yair, A., Almog, R., and Veste, M.: Differential hydrological response of biological topsoil crusts along a rainfall
+gradient in a sandy arid area: Northern Negev desert, Israel, CATENA, 87, 326–333, <ext-link xlink:href="https://doi.org/10.1016/j.catena.2011.06.015" ext-link-type="DOI">10.1016/j.catena.2011.06.015</ext-link>, 2011.</mixed-citation></ref>
+      <ref id="bib1.bib106"><label>106</label><mixed-citation>Yang, X., Bauhus, J., Both, S., Fang, T., Härdtle, W., Kröber, W., Ma, K., Nadrowski, K., Pei, K.,
+Scherer-Lorenzen, M., Scholten, T., Seidler, G., Schmid, B., Oheimb, G. von, and Bruelheide, H.: Establishment success in a forest
+biodiversity and ecosystem functioning experiment in subtropical China (BEF-China), Eur. J. Forest Res., 132, 593–606,
+<ext-link xlink:href="https://doi.org/10.1007/s10342-013-0696-z" ext-link-type="DOI">10.1007/s10342-013-0696-z</ext-link>, 2013.</mixed-citation></ref>
+      <ref id="bib1.bib107"><label>107</label><mixed-citation>Zaady, E., Karnieli, A., and Shachak, M.: Applying a field spectroscopy technique for assessing successional trends of
+biological soil crusts in a semi-arid environment, J. Arid Environ., 70, 463–477, <ext-link xlink:href="https://doi.org/10.1016/j.jaridenv.2007.01.004" ext-link-type="DOI">10.1016/j.jaridenv.2007.01.004</ext-link>, 2007.</mixed-citation></ref>
+      <ref id="bib1.bib108"><label>108</label><mixed-citation>Zhang, Y., Aradottir, A. L., Serpe, M., and Boeken, B.: Interactions of biological soil crusts with vascular plants, in:
+Biological Soil Crusts: an Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies,
+Analysis and Synthesis, 226, Springer, Switzerland, 385–406, 2016.
+ </mixed-citation></ref><?xmltex \hack{\newpage}?>
+      <ref id="bib1.bib109"><label>109</label><mixed-citation>Zhao, Y. and Xu, M.: Runoff and soil loss from revegetated grasslands in the hilly Loess Plateau region, China: influence
+of biocrust patches and plant canopies, J. Hydrol. Eng., 18, 387–393, <ext-link xlink:href="https://doi.org/10.1061/(ASCE)HE.1943-5584.0000633" ext-link-type="DOI">10.1061/(ASCE)HE.1943-5584.0000633</ext-link>, 2013.</mixed-citation></ref>
+      <ref id="bib1.bib110"><label>110</label><mixed-citation> Zhao, Y., Xu, M., and Belnap, J.: Response of biocrusts' photosynthesis to environmental factors: a possible explanation
+of the spatial distribution of biocrusts in the Hilly Loess Plateau region of China, Acta Ecologica Sinica, 30, 4668–4675, 2010.</mixed-citation></ref>
+      <ref id="bib1.bib111"><label>111</label><mixed-citation>Zhao, Y., Qin, N., Weber, B., and Xu, M.: Response of biological soil crusts to raindrop erosivity and underlying
+influences in the hilly Loess Plateau region, China, Biodivers. Conserv., 23, 1669–1686, <ext-link xlink:href="https://doi.org/10.1007/s10531-014-0680-z" ext-link-type="DOI">10.1007/s10531-014-0680-z</ext-link>,
+2014.</mixed-citation></ref>
+      <ref id="bib1.bib112"><label>112</label><mixed-citation> Zhu, R.-L.: New Checklist of Chinese Liverworts, Hornworts, and Takakiophytes: 3rd version in January 2006, East China
+Normal University, Shanghai, 2006.</mixed-citation></ref>
+
+  </ref-list><app-group content-type="float"><app><title/>
+
+    </app></app-group></back>
+    <!--<article-title-html>Bryophyte-dominated biological soil crusts mitigate soil erosion in an early successional Chinese subtropical forest</article-title-html>
+<abstract-html><p class="p">This study investigated the development of biological soil crusts (biocrusts)
+in an early successional subtropical forest plantation
+and their impact on soil erosion. Within a biodiversity and ecosystem functioning experiment in southeast China (biodiversity and ecosystem functioning (BEF) China), the
+effect of these biocrusts on sediment delivery and runoff was assessed within micro-scale runoff plots under natural rainfall, and
+biocrust cover was surveyed over a 5-year period.</p><p class="p">Results showed that biocrusts occurred widely in the experimental forest ecosystem and developed from initial light cyanobacteria-
+and algae-dominated crusts to later-stage bryophyte-dominated crusts within only 3 years. Biocrust cover was still increasing
+after 6 years of tree growth. Within later-stage crusts, 25 bryophyte species were determined.  Surrounding vegetation cover and
+terrain attributes significantly influenced the development of biocrusts. Besides high crown cover and leaf area index, the
+development of biocrusts was favoured by low slope gradients, slope orientations towards the incident sunlight and the altitude of
+the research plots. Measurements showed that bryophyte-dominated biocrusts strongly decreased soil erosion, being more effective than
+abiotic soil surface cover.  Hence, their significant role in mitigating sediment delivery and runoff generation in mesic forest
+environments and their ability to quickly colonise soil surfaces after disturbance are of particular interest for soil erosion
+control in early-stage forest plantations.</p></abstract-html>
+<ref-html id="bib1.bib1"><label>1</label><mixed-citation> Allen, C. D.: Biogeomorphology and biological soil crusts: a symbiotic research relationship, Geomorphologie, 16, 347–358,
+<a href="https://doi.org/10.4000/geomorphologie.8071" target="_blank">https://doi.org/10.4000/geomorphologie.8071</a>, 2010.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib2"><label>2</label><mixed-citation> Barnes, B. V. and Spurr, S. H.: Forest Ecology, 4th ed., Wiley, New York, 774 pp., 1998.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib3"><label>3</label><mixed-citation> Beck, E., Hartig, K., Roos, K., Preußig, M., and Nebel, M.: Permanent removal of the forest: construction of roads and
+power supply lines, in: Gradients in a Tropical Mountain Ecosystem of Ecuador, edited by: Beck, E., Ecological Studies, vol. 198,
+Springer, Berlin, 361–370, 2008.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib4"><label>4</label><mixed-citation> Behrens, T., Schmidt, K., and Scholten, T.: An approach to removing uncertainities in nominal environmental covariates and
+soil class maps, in: Digital Soil Mapping with Limited Data, edited by: Hartemink, A. E., McBratney, A. B., Mendonça-Santos,
+Maria de Lourdes, Springer, Dordrecht, London, 213–224, 2008.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib5"><label>5</label><mixed-citation> Belnap, J.: The potential roles of biological soil crusts in dryland hydrologic cycles, Hydrol. Process., 20, 3159–3178,
+<a href="https://doi.org/10.1002/hyp.6325" target="_blank">https://doi.org/10.1002/hyp.6325</a>, 2006.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib6"><label>6</label><mixed-citation> Belnap, J. and Büdel, B.: Biological soil crusts as soil stabilizers, in: Biological Soil Crusts: an Organizing
+Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies, Analysis and Synthesis, vol. 226,
+Springer, Switzerland, 305–320, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib7"><label>7</label><mixed-citation> Belnap, J. and Gillette, D. A.: Disturbance of biological soil crusts: impacts on potential wind erodibility of sandy
+desert soils in southeastern Utah, Land Degrad. Dev., 8, 355–362,
+<a href="https://doi.org/10.1002/(SICI)1099-145X(199712)8:4&lt;355::AID-LDR266&gt;3.0.CO;2-H" target="_blank">https://doi.org/10.1002/(SICI)1099-145X(199712)8:4&lt;355::AID-LDR266&gt;3.0.CO;2-H</a>, 1997.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib8"><label>8</label><mixed-citation> Belnap, J. and Lange, O. L. (Eds.): Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd
+printing, Springer, Berlin,   503 pp., 2003.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib9"><label>9</label><mixed-citation> Belnap, J., Kaltenecker, J. H., Rosentreter, R., Williams, J., Leonard, S., and Eldridge, D. J.: Biological Soil Crusts:
+Ecology and Management, Technical Reference, 1730-2, United States Department of the Interior – Bureau of Land Management,
+US Department of the Interior - Bureau of Land Management, Denver, Colorado,
+2001.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib10"><label>10</label><mixed-citation> Belnap, J., Büdel, B., and Lange, O. L.: Biological soil crusts: characteristics and distribution, in: Biological Soil
+Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin, 3–30,
+2003a.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib11"><label>11</label><mixed-citation> Belnap, J., Prasse, R., and Harper, K. T.: Influence of biological soil crusts on soil environments and vascular plants,
+in: Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L.,
+Springer, Berlin, 281–300, 2003b.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib12"><label>12</label><mixed-citation> Berkeley, A., Thomas, A. D., and Dougill, A. J.: Cyanobacterial soil crusts and woody shrub canopies in Kalahari
+rangelands, Afr. J. Ecol., 43, 137–145, <a href="https://doi.org/10.1111/j.1365-2028.2005.00560.x" target="_blank">https://doi.org/10.1111/j.1365-2028.2005.00560.x</a>, 2005.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib13"><label>13</label><mixed-citation> Bischler-Causse, H.: <i>Marchantia L.</i>: The Asiatic and Oceanic Taxa, J. Cramer, Berlin, 317 pp., 1989.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib14"><label>14</label><mixed-citation> Bormann, F. H., Likens, G. E., Fisher, D. W., and Pierce, R. S.: Nutrient loss accelerated by clear-cutting of a forest
+ecosystem, Science, 159, 882–884, <a href="https://doi.org/10.1126/science.159.3817.882" target="_blank">https://doi.org/10.1126/science.159.3817.882</a>, 1968.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib15"><label>15</label><mixed-citation> Bowker, M. A.: Biological soil crust rehabilitation in theory and practice: an underexploited opportunity, Restor Ecol.,
+15, 13–23, <a href="https://doi.org/10.1111/j.1526-100X.2006.00185.x" target="_blank">https://doi.org/10.1111/j.1526-100X.2006.00185.x</a>, 2007.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib16"><label>16</label><mixed-citation> Bowker, M. A., Reed, S. C., Belnap, J., and Phillips, S. L.: Temporal variation in community composition, pigmentation,
+and <i>F</i>(<i>v</i>)∕<i>F</i>(<i>m</i>) of desert cyanobacterial soil crusts, Microb. Ecol., 43, 13–25, <a href="https://doi.org/10.1007/s00248-001-1013-9" target="_blank">https://doi.org/10.1007/s00248-001-1013-9</a>, 2002.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib17"><label>17</label><mixed-citation> Bowker, M. A., Belnap, J., Bala Chaudhary, V., and Johnson, N. C.: Revisiting classic water erosion models in drylands:
+The strong impact of biological soil crusts, Soil Biol. Biochem., 40, 2309–2316, <a href="https://doi.org/10.1016/j.soilbio.2008.05.008" target="_blank">https://doi.org/10.1016/j.soilbio.2008.05.008</a>, 2008.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib18"><label>18</label><mixed-citation> Bowker, M. A., Belnap, J., Büdel, B., Sannier, C., Pietrasiak, N., Eldridge, D. J., and Rivera-Aguilar, V.: Controls
+on distribution patterns of biological soil crusts at micro- to global scales, in: Biological Soil Crusts: an Organizing Principle in
+Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies, Analysis and Synthesis, vol. 226, Springer,
+Switzerland, 173–197, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib19"><label>19</label><mixed-citation> Bruelheide, H., Nadrowski, K., Assmann, T., Bauhus, J., Both, S., Buscot, F., Chen, X.-Y., Ding, B., Durka, W.,
+Erfmeier, A., Gutknecht, J. L. M., Guo, D., Guo, L.-D., Härdtle, W., He, J.-S., Klein, A.-M., Kühn, P., Liang, Y., Liu, X.,
+Michalski, S., Niklaus, P. A., Pei, K., Scherer-Lorenzen, M., Scholten, T., Schuldt, A., Seidler, G., Trogisch, S., Oheimb, G. von,
+Welk, E., Wirth, C., Wubet, T., Yang, X., Yu, M., Zhang, S., Zhou, H., Fischer, M., Ma, K., Schmid, B., and Muller-Landau, H.:
+Designing forest biodiversity experiments: general considerations illustrated by a new large experiment in subtropical China, Methods
+Ecol. Evol., 5, 74–89, <a href="https://doi.org/10.1111/2041-210X.12126" target="_blank">https://doi.org/10.1111/2041-210X.12126</a>, 2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib20"><label>20</label><mixed-citation> Bu, C., Wu, S., Zhang, K., Yang, Y., and Gao, G.: Biological soil crusts: an eco-adaptive biological conservative
+mechanism and implications for ecological restoration, Plant Biosyst., 149, 364–373, <a href="https://doi.org/10.1080/11263504.2013.819820" target="_blank">https://doi.org/10.1080/11263504.2013.819820</a>, 2013.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib21"><label>21</label><mixed-citation> Bu, C., Wu, S., Han, F., Yang, Y., and Meng, J.: The combined effects of moss-dominated biocrusts and vegetation on
+erosion and soil moisture and implications for disturbance on the Loess Plateau, China, PloS one, 10, e0127394,
+<a href="https://doi.org/10.1371/journal.pone.0127394" target="_blank">https://doi.org/10.1371/journal.pone.0127394</a>, 2015.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib22"><label>22</label><mixed-citation> Bu, C., Zhang, P., Wang, C., Yang, Y., Shao, H.-B., and Wu, S.: Spatial distribution of biological soil crusts on the
+slope of the Chinese Loess Plateau based on canonical correspondence analysis, CATENA, 137, 373–381,
+<a href="https://doi.org/10.1016/j.catena.2015.10.016" target="_blank">https://doi.org/10.1016/j.catena.2015.10.016</a>, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib23"><label>23</label><mixed-citation> Büdel, B.: Biological soil crusts of Asia including the Don and Volga Region, in: Biological Soil Crusts: Structure,
+Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin, 87–94, 2003.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib24"><label>24</label><mixed-citation> Büdel, B.: Microorganisms of biological crusts on soil surfaces, in: Microorganisms in Soils: Roles in Genesis and
+Functions, edited by: Buscot, F., Varma, A., Springer, New York, 307–324, 2005.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib25"><label>25</label><mixed-citation> Büdel, B., Darienko, T., Deutschewitz, K., Dojani, S., Friedl, T., Mohr, K. I., Salisch, M., Reisser, W., and
+Weber, B.: Southern African biological soil crusts are ubiquitous and highly diverse in drylands, being restricted by rainfall
+frequency, Microb. Ecol., 57, 229–247, <a href="https://doi.org/10.1007/s00248-008-9449-9" target="_blank">https://doi.org/10.1007/s00248-008-9449-9</a>, 2009.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib26"><label>26</label><mixed-citation> Büdel, B., Colesie, C., Green, T. G. A., Grube, M., Lazaro Suau, R., Loewen-Schneider, K., Maier, S., Peer, T.,
+Pintado, A., Raggio, J., Ruprecht, U., Sancho, L. G., Schroeter, B., Turk, R., Weber, B., Wedin, M., Westberg, M., Williams, L., and
+Zheng, L.: Improved appreciation of the functioning and importance of biological soil crusts in Europe: the Soil Crust International
+Project (SCIN), Biodivers. Conserv., 23, 1639–1658, <a href="https://doi.org/10.1007/s10531-014-0645-2" target="_blank">https://doi.org/10.1007/s10531-014-0645-2</a>, 2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib27"><label>27</label><mixed-citation> Buscot, F. and Varma, A. (eds.): Microorganisms in Soils: Roles in Genesis and Functions, Springer, New York, 2005.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib28"><label>28</label><mixed-citation> Cantón, Y., Domingo, F., Solé-Benet, A., and Puigdefábregas, J.: Influence of soil-surface types on the
+overall runoff of the Tabernas badlands (south-east Spain): field data and model approaches, Hydrol. Process., 16, 2621–2643,
+<a href="https://doi.org/10.1002/hyp.1052" target="_blank">https://doi.org/10.1002/hyp.1052</a>, 2002.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib29"><label>29</label><mixed-citation> Cantón, Y., Solé-Benet, A., Vente, J. de, Boix-Fayos, C., Calvo-Cases, A., Asensio, C., and
+Puigdefábregas, J.: A review of runoff generation and soil erosion across scales in semiarid south-eastern Spain, J. Arid
+Environ., 75, 1254–1261, <a href="https://doi.org/10.1016/j.jaridenv.2011.03.004" target="_blank">https://doi.org/10.1016/j.jaridenv.2011.03.004</a>, 2011.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib30"><label>30</label><mixed-citation> Chamizo, S., Cantón, Y., Rodríguez-Caballero, E., Domingo, F., and Escudero, A.: Runoff at contrasting scales in
+a semiarid ecosystem: A complex balance between biological soil crust features and rainfall characteristics, J. Hydrol., 452–453,
+130–138, <a href="https://doi.org/10.1016/j.jhydrol.2012.05.045" target="_blank">https://doi.org/10.1016/j.jhydrol.2012.05.045</a>, 2012.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib31"><label>31</label><mixed-citation> Chamizo, S., Cantón, Y., Domingo, F., and Belnap, J.: Evaporative losses from soils covered by physical and different
+types of biological soil crusts, Hydrol. Process., 27, 324–332, <a href="https://doi.org/10.1002/hyp.8421" target="_blank">https://doi.org/10.1002/hyp.8421</a>, 2013.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib32"><label>32</label><mixed-citation> Chamizo, S., Belnap, J., Eldridge, D. J., Cantón, Y., and Malam Issa, O.: The role of biocrusts in arid land
+hydrology, in: Biological Soil Crusts: An Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J.,
+Ecological Studies, Analysis and Synthesis, vol. 226, Springer, Switzerland, 321–346, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib33"><label>33</label><mixed-citation> Chiquoine, L. P., Abella, S. R., and Bowker, M. A.: Rapidly restoring biological soil crusts and ecosystem functions in
+a severely disturbed desert ecosystem, Ecol. Appl., 26, 1260–1272, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib34"><label>34</label><mixed-citation> Colesie, C., Felde, V. J. M., and Büdel, B.: Composition and macrostructure of biological soil crusts, in: Biological
+Soil Crusts: An Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies, Analysis and
+Synthesis, vol. 226, Springer, Switzerland, 159–172, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib35"><label>35</label><mixed-citation> Condon, L. A. and Pyke, D. A.: Filling the interspace-restoring arid land mosses: source populations, organic matter, and
+overwintering govern success, Ecol. Evol., 6, 7623–7632, <a href="https://doi.org/10.1002/ece3.2448" target="_blank">https://doi.org/10.1002/ece3.2448</a>, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib36"><label>36</label><mixed-citation> Dojani, S., Büdel, B., Deutschewitz, K., and Weber, B.: Rapid succession of Biological Soil Crusts after experimental
+disturbance in the Succulent Karoo, South Africa, Appl. Soil Ecol., 48, 263–269, <a href="https://doi.org/10.1016/j.apsoil.2011.04.013" target="_blank">https://doi.org/10.1016/j.apsoil.2011.04.013</a>, 2011.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib37"><label>37</label><mixed-citation> Drahorad, S., Steckenmesser, D., Felix-Henningsen, P., Lichner, Ĺ., and Rodný, M.: Ongoing succession of
+biological soil crusts increases water repellency – a case study on Arenosols in Sekule, Slovakia, Biologia, 68, 309,
+<a href="https://doi.org/10.2478/s11756-013-0247-6" target="_blank">https://doi.org/10.2478/s11756-013-0247-6</a>, 2013.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib38"><label>38</label><mixed-citation> Eldridge, D. J.: Soil crust lichens and mosses on calcrete-dominant soils at Maralinga in arid South Australia,
+J. Adelaide Botanic Gardens, 18, 9–24, 1998.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib39"><label>39</label><mixed-citation> Eldridge, D. J.: Distribution and floristics of moss- and lichen-dominated soil crusts in a patterned Callitris
+glaucophylla woodland in eastern Australia, Acta Oecol., 20, 159–170, <a href="https://doi.org/10.1016/S1146-609X(99)80029-0" target="_blank">https://doi.org/10.1016/S1146-609X(99)80029-0</a>, 1999.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib40"><label>40</label><mixed-citation> Eldridge, D. J. and Greene, R. S. B.: Assessment of sediment yield by splash erosion on a semi-arid soil with varying
+cryptogam cover, J. Arid Environ., 26, 221–232, <a href="https://doi.org/10.1006/jare.1994.1025" target="_blank">https://doi.org/10.1006/jare.1994.1025</a>, 1994.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib41"><label>41</label><mixed-citation> Eldridge, D. J. and Tozer, M. E.: Environmental factors relating to the distribution of terricolous bryophytes and lichens
+in semi-arid eastern Australia, Bryologist, 100, 28, <a href="https://doi.org/10.2307/3244384" target="_blank">https://doi.org/10.2307/3244384</a>, 1997.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib42"><label>42</label><mixed-citation> Evans, R. D. and Johansen, J. R.: Microbiotic crusts and ecosystem processes, Crit. Rev. Plant Sci., 18, 183–225,
+<a href="https://doi.org/10.1080/07352689991309199" target="_blank">https://doi.org/10.1080/07352689991309199</a>, 1999.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib43"><label>43</label><mixed-citation> Fenton, N. J. and Frego, K. A.: Bryophyte (moss and liverwort) conservation under remnant canopy in managed forests,
+Biol. Conserv., 122, 417–430, <a href="https://doi.org/10.1016/j.biocon.2004.09.003" target="_blank">https://doi.org/10.1016/j.biocon.2004.09.003</a>, 2005.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib44"><label>44</label><mixed-citation> Fischer, T., Gypser, S., Subbotina, M., and Veste, M.: Synergic hydraulic and nutritional feedback mechanisms control
+surface patchiness of biological soil crusts on tertiary sands at a post-mining site, J. Hydrol. Hydromech., 62, 293–302, <a href="https://doi.org/10.2478/johh-2014-0038" target="_blank">https://doi.org/10.2478/johh-2014-0038</a>, 2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib45"><label>45</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 01: <i>Sphagnaceae – Leucobryaceae</i>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 273 pp., 1999.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib46"><label>46</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 02: <i>Fissidentaceae – Phytomitriaceae</i>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 283 pp., 2001.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib47"><label>47</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 06: <i>Hookeriaceae – Thuidiaceae</i>, English Version,
+Science Press and Missouri Botanical Garden, Beijing, St. Louis, 2002.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib48"><label>48</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 03: <i>Grimmiaceae – Tetraphidaceae</i>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 141 pp., 2003.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib49"><label>49</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 08: <i>Sematophyllaceae – Polytrichaceae</i>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 2005.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib50"><label>50</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 04: <i>Bryaceae – Timmiaceae</i>, English Version,
+Science Press and Missouri Botanical Garden, Beijing, St. Louis, 211 pp., 2007.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib51"><label>51</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 07: <i>Amblystegiaceae – Plagiotheciaceae</i>, English
+Version, Science Press and Missouri Botanical Garden, Beijing, St. Louis, 258 pp., 2008.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib52"><label>52</label><mixed-citation> Gao, C., Crosby, M. R., and He, S.: Moss flora of China: Volume 05: <i>Erpodiaceae – Climaciaceae</i>, English Version,
+Science Press and Missouri Botanical Garden, Beijing, St. Louis, 2011.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib53"><label>53</label><mixed-citation> Garcia-Pichel, F. and Belnap, J.: Small-scale environments and distribution of biological soil crusts, in: Biological Soil
+Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin,
+193–201, 2003.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib54"><label>54</label><mixed-citation> George, D. B., Davidson, D. W., Schliep, K. C., and Patrell-Kim, L. J.: Microtopography of microbiotic crusts on the
+Colorado Plateau, and distribution of component organisms, West. N. Am. Naturalist, 60, 343–354, 2000.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib55"><label>55</label><mixed-citation> Gilliam, F. S.: The ecological significance of the herbaceous layer in temperate forest ecosystems, BioScience, 57, 845,
+<a href="https://doi.org/10.1641/B571007" target="_blank">https://doi.org/10.1641/B571007</a>, 2007.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib56"><label>56</label><mixed-citation> Goebes, P., Seitz, S., Geißler, C., Lassu, T., Peters, P., Seeger, M., Nadrowski, K., and Scholten, T.: Momentum or
+kinetic energy – How do substrate properties influence the calculation of rainfall erosivity?, J. Hydrol., 517, 310–316,
+<a href="https://doi.org/10.1016/j.jhydrol.2014.05.031" target="_blank">https://doi.org/10.1016/j.jhydrol.2014.05.031</a>, 2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib57"><label>57</label><mixed-citation> Goebes, P., Seitz, S., Kühn, P., Li, Y., Niklaus, P. A., Oheimb, G. von, and Scholten, T.: Throughfall kinetic energy
+in young subtropical forests: Investigation on tree species richness effects and spatial variability, Agr. Forest Meteorol., 213,
+148–159, <a href="https://doi.org/10.1016/j.agrformet.2015.06.019" target="_blank">https://doi.org/10.1016/j.agrformet.2015.06.019</a>, 2015.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib58"><label>58</label><mixed-citation> Goffinet, B. and Shaw, A. J.: Bryophyte Biology, 2nd ed., Cambridge University Press, Cambridge, Chapt. XIV, p. 565, 2009.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib59"><label>59</label><mixed-citation> Harper, K. T. and Belnap, J.: The influence of biological soil crusts on mineral uptake by associated vascular plants,
+J. Arid Environ., 47, 347–357, <a href="https://doi.org/10.1006/jare.2000.0713" target="_blank">https://doi.org/10.1006/jare.2000.0713</a>, 2001.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib60"><label>60</label><mixed-citation> Hawkes, C. V.: Effects of biological soil crusts on seed germination of four endangered herbs in a xeric Florida shrubland
+during drought, Plant Ecol., 170, 121–134, <a href="https://doi.org/10.1023/B:VEGE.0000019035.56245.91" target="_blank">https://doi.org/10.1023/B:VEGE.0000019035.56245.91</a>, 2004.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib61"><label>61</label><mixed-citation> Hothorn, T. and Hornik, K.: exactRankTests: Exact Distributions for Rank and Permutation Tests,     2015.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib62"><label>62</label><mixed-citation> Keenan, R. J. and Kimmins, J. P.: The ecological effects of clear-cutting, Environ. Rev., 1, 121–144,
+<a href="https://doi.org/10.1139/a93-010" target="_blank">https://doi.org/10.1139/a93-010</a>, 1993.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib63"><label>63</label><mixed-citation> Kidron, G. J.: The impact of microbial crust upon rainfall–runoff-sediment yield relationships on longitudinal dune
+slopes, Nizzana, western Negev Dessert, Israel, PhD Thesis, Hebrew University of Jerusalem, Jerusalem, 1995.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib64"><label>64</label><mixed-citation> Kidron, G. J., Vonshak, A., and Abeliovich, A.: Microbiotic crusts as biomarkers for surface stability and wetness
+duration in the Negev Desert, Earth Surf. Proc. Land., 34, 1594–1604, <a href="https://doi.org/10.1002/esp.1843" target="_blank">https://doi.org/10.1002/esp.1843</a>, 2009.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib65"><label>65</label><mixed-citation> Kidron, G. J., Yaalon, D. H., and Vonshak, A.: Two causes for runoff initiation on microbiotic crusts: hydrophobicity and
+pore clogging, Soil Sci., 164, 18–27, <a href="https://doi.org/10.1097/00010694-199901000-00004" target="_blank">https://doi.org/10.1097/00010694-199901000-00004</a>, 1999.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib66"><label>66</label><mixed-citation> Kleiner, E. F. and Harper, K. T.: Soil properties in relation to cryptogamic groundcover in Canyonlands National Park,
+J. Range Manage. Archives, 30, 202–205, 1977.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib67"><label>67</label><mixed-citation> Kutiel, P., Lavee, H., and Ackermann, O.: Spatial distribution of soil surface coverage on north and south facing
+hillslopes along a Mediterranean to extreme arid climatic gradient, Geomorphology, 23, 245–256, <a href="https://doi.org/10.1016/S0169-555X(98)00007-5" target="_blank">https://doi.org/10.1016/S0169-555X(98)00007-5</a>,
+1998.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib68"><label>68</label><mixed-citation> Kuznetsova, A., Brockhoff, P. B., and Christensen, R. H.: lmerTest: Tests in Linear Mixed Effects Models,   2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib69"><label>69</label><mixed-citation> Langhans, T. M., Storm, C., and Schwabe, A.: Biological soil crusts and their microenvironment: Impact on emergence,
+survival and establishment of seedlings, flora – morphology, distribution, Funct. Ecol. Plants, 204, 157–168, <a href="https://doi.org/10.1016/j.flora.2008.01.001" target="_blank">https://doi.org/10.1016/j.flora.2008.01.001</a>, 2009.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib70"><label>70</label><mixed-citation> Li, Y., Härdtle, W., Bruelheide, H., Nadrowski, K., Scholten, T., von Wehrden, H., and Oheimb, G. von: Site and
+neighborhood effects on growth of tree saplings in subtropical plantations (China), Forest Ecol. Manag., 327, 118–127,
+<a href="https://doi.org/10.1016/j.foreco.2014.04.039" target="_blank">https://doi.org/10.1016/j.foreco.2014.04.039</a>, 2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib71"><label>71</label><mixed-citation> Maestre, F. T., Bowker, M. A., Cantón, Y., Castillo-Monroy, A. P., Cortina, J., Escolar, C., Escudero, A., Lazaro
+Suau, R., and Martínez, I.: Ecology and functional roles of biological soil crusts in semi-arid ecosystems of Spain, J. Arid
+Environ., 75, 1282–1291, <a href="https://doi.org/10.1016/j.jaridenv.2010.12.008" target="_blank">https://doi.org/10.1016/j.jaridenv.2010.12.008</a>, 2011.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib72"><label>72</label><mixed-citation> Malam Issa, O., Trichet, J., Défarge, C., Couté, A., and Valentin, C.: Morphology and microstructure of
+microbiotic soil crusts on a tiger bush sequence (Niger, Sahel), CATENA, 37, 175–196, <a href="https://doi.org/10.1016/S0341-8162(99)00052-1" target="_blank">https://doi.org/10.1016/S0341-8162(99)00052-1</a>, 1999.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib73"><label>73</label><mixed-citation> Malam Issa, O., Le Bissonnais, Y., Défarge, C., and Trichet, J.: Role of a cyanobacterial cover on structural
+stability of sandy soils in the Sahelian part of western Niger, Geoderma, 101, 15–30, <a href="https://doi.org/10.1016/S0016-7061(00)00093-8" target="_blank">https://doi.org/10.1016/S0016-7061(00)00093-8</a>, 2001.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib74"><label>74</label><mixed-citation> Malam Issa, O., Défarge, C., Le Bissonnais, Y., Marin, B., Duval, O., Bruand, A., D'Acqui, L. P., Nordenberg, S., and
+Annerman, M.: Effects of the inoculation of cyanobacteria on the microstructure and the structural stability of a tropical soil,
+Plant Soil, 290, 209–219, <a href="https://doi.org/10.1007/s11104-006-9153-9" target="_blank">https://doi.org/10.1007/s11104-006-9153-9</a>, 2007.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib75"><label>75</label><mixed-citation> Marsh, J., Nouvet, S., Sanborn, P., and Coxson, D.: Composition and function of biological soil crust communities along
+topographic gradients in grasslands of central interior British Columbia (Chilcotin) and southwestern Yukon (Kluane), Can. J. Bot.,
+84, 717–736, <a href="https://doi.org/10.1139/b06-026" target="_blank">https://doi.org/10.1139/b06-026</a>, 2006.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib76"><label>76</label><mixed-citation> Müller, S. J., Gütle, D. D., Jacquot, J.-P., and Reski, R.: Can mosses serve as model organisms for forest
+research?, Ann. For. Sci., 73, 135–146, <a href="https://doi.org/10.1007/s13595-015-0468-7" target="_blank">https://doi.org/10.1007/s13595-015-0468-7</a>, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib77"><label>77</label><mixed-citation> Ponzetti, J. M. and McCune, B. P.: Biotic soil crusts of Oregon's Shrub Steppe: community composition in relation to soil
+chemistry, climate, and livestock activity, Bryologist, 104, 212–225, <a href="https://doi.org/10.1639/0007-2745(2001)104[0212:BSCOOS]2.0.CO;2" target="_blank">https://doi.org/10.1639/0007-2745(2001)104[0212:BSCOOS]2.0.CO;2</a>,
+2001.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib78"><label>78</label><mixed-citation> Pribyl, D. W.: A critical review of the conventional SOC to SOM conversion factor, Geoderma, 156, 75–83,
+<a href="https://doi.org/10.1016/j.geoderma.2010.02.003" target="_blank">https://doi.org/10.1016/j.geoderma.2010.02.003</a>, 2010.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib79"><label>79</label><mixed-citation> R Core Team: R: A Language and Environment for Statistical Computing, R Foundation for Statistical Computing, Vienna,
+Austria, 2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib80"><label>80</label><mixed-citation> Read, C. F., Duncan, D. H., Vesk, P. A., and Elith, J.: Surprisingly fast recovery of biological soil crusts following
+livestock removal in southern Australia, J. Veg. Sci., 22, 905–916, <a href="https://doi.org/10.1111/j.1654-1103.2011.01296.x" target="_blank">https://doi.org/10.1111/j.1654-1103.2011.01296.x</a>, 2011.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib81"><label>81</label><mixed-citation> Read, C. F., Elith, J., Vesk, P. A., and Pugnaire, F.: Testing a model of biological soil crust succession, J. Veg. Sci.,
+27, 176–186, <a href="https://doi.org/10.1111/jvs.12332" target="_blank">https://doi.org/10.1111/jvs.12332</a>, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib82"><label>82</label><mixed-citation> Riley, S. J., Degloria, S. D., and Elliot, R.: A Terrain Ruggedness Index that quantifies topographic heterogeneity,
+Intermountain J. Sci., 5, 23–27, 1999.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib83"><label>83</label><mixed-citation> Roberts, D. W.: Ordination on the basis of fuzzy set theory, Vegetatio, 66, 123–131, 1986.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib84"><label>84</label><mixed-citation> Rodríguez-Caballero, E., Cantón, Y., Chamizo, S., Afana, A., and Solé-Benet, A.: Effects of biological soil
+crusts on surface roughness and implications for runoff and erosion, Geomorphology, 145–146, 81–89,
+<a href="https://doi.org/10.1016/j.geomorph.2011.12.042" target="_blank">https://doi.org/10.1016/j.geomorph.2011.12.042</a>, 2012.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib85"><label>85</label><mixed-citation> Rodríguez-Caballero, E., Cantón, Y., Chamizo, S., Lazaro Suau, R., and Escudero, A.: Soil loss and runoff in
+semiarid ecosystems: a complex interaction between biological soil crusts, micro-topography, and hydrological drivers, Ecosystems,
+16, 529–546, <a href="https://doi.org/10.1007/s10021-012-9626-z" target="_blank">https://doi.org/10.1007/s10021-012-9626-z</a>, 2013.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib86"><label>86</label><mixed-citation> Rosentreter, R., Eldridge, D. J., and Kaltenecker, J. H.: Monitoring and management of biological soil crusts, in:
+Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L.,
+Springer, Berlin, 457–468, 2003.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib87"><label>87</label><mixed-citation> Scheffer, F., Schachtschabel, P., and Blume, H.-P.: Lehrbuch der Bodenkunde, 16th ed., Spektrum Verlag, Heidelberg,
+Berlin, 569 pp., 2010.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib88"><label>88</label><mixed-citation> Scholten, T., Goebes, P., Kühn, P., Seitz, S., Assmann, T., Bauhus, J., Bruelheide, H., Buscot, F., Erfmeier, A.,
+Fischer, M., Härdtle, W., He, J.-S., Ma, K., Niklaus, P. A., Scherer-Lorenzen, M., Schmid, B., Shi, X., Song, Z., Oheimb, G. von,
+Wirth, C., Wubet, T., and Schmidt, K.: On the combined effect of soil fertility and topography on tree growth in subtropical forest
+ecosystems – a study from SE China, J. Plant Ecol.-UK, 10, 111–127, <a href="https://doi.org/10.1093/jpe/rtw065" target="_blank">https://doi.org/10.1093/jpe/rtw065</a>, 2017.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib89"><label>89</label><mixed-citation>
+Seitz, S.: Main Experiment: Runoff Plots in the Main Experiment – Data, BEF
+China data portal, available at:
+<a href="http://china.befdata.biow.uni-leipzig.de/datasets/376" target="_blank">http://china.befdata.biow.uni-leipzig.de/datasets/376</a> (last access:
+18 December 2017), 2016a.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib90"><label>90</label><mixed-citation>
+Seitz, S.: Main Experiment: Cover of Biological Soil Crusts in Runoff Plots
+(2011–2015), BEF China data portal, available at:
+<a href="http://china.befdata.biow.uni-leipzig.de/datasets/598" target="_blank">http://china.befdata.biow.uni-leipzig.de/datasets/598</a> (last access:
+18 December 2017), 2016b.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib91"><label>91</label><mixed-citation> Seitz, S., Goebes, P., Zumstein, P., Assmann, T., Kühn, P., Niklaus, P. A., Schuldt, A., and Scholten, T.: The
+influence of leaf litter diversity and soil fauna on initial soil erosion in subtropical forests, Earth Surf. Proc. Land., 40,
+1439–1447, <a href="https://doi.org/10.1002/esp.3726" target="_blank">https://doi.org/10.1002/esp.3726</a>, 2015.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib92"><label>92</label><mixed-citation> Seitz, S., Goebes, P., Song, Z., Bruelheide, H., Härdtle, W., Kühn, P., Li, Y., and Scholten, T.: Tree species and
+functional traits but not species richness affect interrill erosion processes in young subtropical forests, Soil, 2, 49–61,
+<a href="https://doi.org/10.5194/soil-2-49-2016" target="_blank">https://doi.org/10.5194/soil-2-49-2016</a>, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib93"><label>93</label><mixed-citation> Seppelt, R. D., Downing, A. J., Deane-Coe, K. K., Zhang, Y., and Zhang, J.: Bryophytes Within Biological Soil Crusts, in:
+Biological Soil Crusts: an Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies,
+Analysis and Synthesis, vol. 226, Springer, Switzerland, 101–120, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib94"><label>94</label><mixed-citation> Söderström, L., Hagborg, A., Konrat, M. von, Bartholomew-Began, S., Bell, D., Briscoe, L., Brown, E.,
+Cargill, D. C., Costa, D. P., Crandall-Stotler, B. J., Cooper, E. D., Dauphin, G., Engel, J. J., Feldberg, K., Glenny, D.,
+Gradstein, S. R., He, X., Heinrichs, J., Hentschel, J., Ilkiu-Borges, A. L., Katagiri, T., Konstantinova, N. A., Larraín, J.,
+Long, D. G., Nebel, M., Pócs, T., Puche, F., Reiner-Drehwald, E., Renner, M. A. M., Sass-Gyarmati, A., Schäfer-Verwimp, A.,
+Moragues, José Gabriel Segarra, Stotler, R. E., Sukkharak, P., Thiers, B. M., Uribe, J., Váňa, J., Villarreal, J. C.,
+Wigginton, M., Zhang, L., and Zhu, R.-L.: World checklist of hornworts and liverworts, PhytoKeys, 59, 1–828, <a href="https://doi.org/10.3897/phytokeys.59.6261" target="_blank">https://doi.org/10.3897/phytokeys.59.6261</a>, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib95"><label>95</label><mixed-citation> Spitale, D.: Forest and substrate type drive bryophyte distribution in the Alps, J. Bryol., 39, 128–140,
+<a href="https://doi.org/10.1080/03736687.2016.1274090" target="_blank">https://doi.org/10.1080/03736687.2016.1274090</a>, 2017.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib96"><label>96</label><mixed-citation> Su, Y.-G., Li, X.-R., Cheng, Y.-W., Tan, H.-J., and Jia, R.-L.: Effects of biological soil crusts on emergence of desert
+vascular plants in North China, Plant Ecol., 191, 11–19, <a href="https://doi.org/10.1007/s11258-006-9210-8" target="_blank">https://doi.org/10.1007/s11258-006-9210-8</a>, 2007.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib97"><label>97</label><mixed-citation> Tinya, F. and Ódor, P.: Congruence of the spatial pattern of light and understory vegetation in an old-growth,
+temperate mixed forest, Forest Ecol. Manag., 381, 84–92, <a href="https://doi.org/10.1016/j.foreco.2016.09.027" target="_blank">https://doi.org/10.1016/j.foreco.2016.09.027</a>, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib98"><label>98</label><mixed-citation> Trogisch, S., Schuldt, A., Bauhus, J., Blum, J. A., Both, S., Buscot, F., Castro-Izaguirre, N., Chesters, D., Durka, W.,
+Eichenberg, D., Erfmeier, A., Fischer, M., Geißler, C., Germany, M. S., Goebes, P., Gutknecht, J. L. M., Hahn, C. Z., Haider, S.,
+Härdtle, W., He, J.-S., Hector, A., Hönig, L., Huang, Y., Klein, A.-M., Kühn, P., Kunz, M., Leppert, K. N., Li, Y.,
+Liu, X., Niklaus, P. A., Pei, Z., Pietsch, K. A., Prinz, R., Proß, T., Scherer-Lorenzen, M., Schmidt, K., Scholten, T.,
+Seitz, S., Song, Z., Staab, M., Oheimb, G. von, Weißbecker, C., Welk, E., Wirth, C., Wubet, T., Yang, B., Yang, X., Zhu, C.-D.,
+Schmid, B., Ma, K., and Bruelheide, H.: Toward a methodical framework for comprehensively assessing forest multifunctionality,
+Ecol. Evol., 49, 277, <a href="https://doi.org/10.1002/ece3.3488" target="_blank">https://doi.org/10.1002/ece3.3488</a>, 2017.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib99"><label>99</label><mixed-citation> Ullmann, I. and Büdel, B.: Ecological determinants of species composition of biological soil crusts on a landscape
+scale, in: Biological Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J.,
+Lange, O. L., Springer, Berlin, 203–213, 2003.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib100"><label>100</label><mixed-citation> Warren, S. D.: Synopsis: Influence of biological soil crusts on arid land hydrology and soil stability, in: Biological
+Soil Crusts: Structure, Function and Management, 1st ed., rev. 2nd printing, edited by: Belnap, J., Lange, O. L., Springer, Berlin,
+349–360, 2003.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib101"><label>101</label><mixed-citation> Weber, B., Büdel, B., and Belnap, J. (eds.): Biological soil crusts: an organizing principle in drylands, in:
+Ecological Studies, Analysis and Synthesis, vol. 226, Springer, Switzerland, 1 online resource (ix), 603, 2016.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib102"><label>102</label><mixed-citation> West, N. E.: Structure and Function of Microphytic Soil Crusts in Wildland Ecosystems of Arid to Semi-arid Regions,
+Adv. Ecol. Res., 20, 179–223, <a href="https://doi.org/10.1016/S0065-2504(08)60055-0" target="_blank">https://doi.org/10.1016/S0065-2504(08)60055-0</a>, 1990.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib103"><label>103</label><mixed-citation> Wickham, H.: Ggplot2: Elegant Graphics for Data Analysis, Use R!, Springer, Dordrecht, New York, 1 online resource
+(viii), 212, 2009.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib104"><label>104</label><mixed-citation> Williams, A. J., Buck, B. J., Soukup, D. A., and Merkler, D. J.: Geomorphic controls on biological soil crust
+distribution: A conceptual model from the Mojave Desert (USA), Geomorphology, 195, 99–109, <a href="https://doi.org/10.1016/j.geomorph.2013.04.031" target="_blank">https://doi.org/10.1016/j.geomorph.2013.04.031</a>,
+2013.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib105"><label>105</label><mixed-citation> Yair, A., Almog, R., and Veste, M.: Differential hydrological response of biological topsoil crusts along a rainfall
+gradient in a sandy arid area: Northern Negev desert, Israel, CATENA, 87, 326–333, <a href="https://doi.org/10.1016/j.catena.2011.06.015" target="_blank">https://doi.org/10.1016/j.catena.2011.06.015</a>, 2011.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib106"><label>106</label><mixed-citation> Yang, X., Bauhus, J., Both, S., Fang, T., Härdtle, W., Kröber, W., Ma, K., Nadrowski, K., Pei, K.,
+Scherer-Lorenzen, M., Scholten, T., Seidler, G., Schmid, B., Oheimb, G. von, and Bruelheide, H.: Establishment success in a forest
+biodiversity and ecosystem functioning experiment in subtropical China (BEF-China), Eur. J. Forest Res., 132, 593–606,
+<a href="https://doi.org/10.1007/s10342-013-0696-z" target="_blank">https://doi.org/10.1007/s10342-013-0696-z</a>, 2013.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib107"><label>107</label><mixed-citation> Zaady, E., Karnieli, A., and Shachak, M.: Applying a field spectroscopy technique for assessing successional trends of
+biological soil crusts in a semi-arid environment, J. Arid Environ., 70, 463–477, <a href="https://doi.org/10.1016/j.jaridenv.2007.01.004" target="_blank">https://doi.org/10.1016/j.jaridenv.2007.01.004</a>, 2007.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib108"><label>108</label><mixed-citation> Zhang, Y., Aradottir, A. L., Serpe, M., and Boeken, B.: Interactions of biological soil crusts with vascular plants, in:
+Biological Soil Crusts: an Organizing Principle in Drylands, edited by: Weber, B., Büdel, B., Belnap, J., Ecological Studies,
+Analysis and Synthesis, 226, Springer, Switzerland, 385–406, 2016.
+
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib109"><label>109</label><mixed-citation> Zhao, Y. and Xu, M.: Runoff and soil loss from revegetated grasslands in the hilly Loess Plateau region, China: influence
+of biocrust patches and plant canopies, J. Hydrol. Eng., 18, 387–393, <a href="https://doi.org/10.1061/(ASCE)HE.1943-5584.0000633" target="_blank">https://doi.org/10.1061/(ASCE)HE.1943-5584.0000633</a>, 2013.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib110"><label>110</label><mixed-citation> Zhao, Y., Xu, M., and Belnap, J.: Response of biocrusts' photosynthesis to environmental factors: a possible explanation
+of the spatial distribution of biocrusts in the Hilly Loess Plateau region of China, Acta Ecologica Sinica, 30, 4668–4675, 2010.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib111"><label>111</label><mixed-citation> Zhao, Y., Qin, N., Weber, B., and Xu, M.: Response of biological soil crusts to raindrop erosivity and underlying
+influences in the hilly Loess Plateau region, China, Biodivers. Conserv., 23, 1669–1686, <a href="https://doi.org/10.1007/s10531-014-0680-z" target="_blank">https://doi.org/10.1007/s10531-014-0680-z</a>,
+2014.
+</mixed-citation></ref-html>
+<ref-html id="bib1.bib112"><label>112</label><mixed-citation> Zhu, R.-L.: New Checklist of Chinese Liverworts, Hornworts, and Takakiophytes: 3rd version in January 2006, East China
+Normal University, Shanghai, 2006.
+</mixed-citation></ref-html>--></article>

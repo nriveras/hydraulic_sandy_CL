@@ -90,7 +90,7 @@ PR_krig_sl_0$var1.sd <- sqrt(PR_krig_sl_0$var1.var)
 PR_krig_median <- median(PR_krig_sl_0$var1.pred, na.rm = TRUE)
 
 PR_krig_sl_0$var1.class <- factor(PR_krig_sl_0$var1.pred > PR_krig_median,
-                                   labels = c("Low PR", "High PR"))
+                                  labels = c("Low PR", "High PR"))
 
 # export interpolated map as shapefile ------------------------------------
 PR_krig_sl_0 <- st_as_sf(as(PR_krig_sl_0, "SpatialPolygonsDataFrame"))
